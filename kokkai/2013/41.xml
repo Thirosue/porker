@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>55</numberOfRecords>
+    <numberOfReturn>1</numberOfReturn>
+    <startRecord>41</startRecord>
+    <nextRecordPosition>42</nextRecordPosition>
+    <records>
+        <record>
+            <recordData>
+                <meetingRecord>
+                    <session>183</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>本会議</nameOfMeeting>
+                    <issue>15号</issue>
+                    <date>2013-04-05</date>
+                    <speechRecord>
+                        <speechOrder>0</speechOrder>
+                        <speaker></speaker>
+                        <speech>平成二十五年四月五日（金曜日）
+　　　　―――――――――――――
+　　平成二十五年四月五日
+　　　　午後零時十五分　本会議
+　　　　―――――――――――――
+○本日の会議に付した案件
+　日本銀行総裁任命につき同意を求めるの件
+　　　　午後零時十七分開議
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>1</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　これより会議を開きます。
+　　　　　――――◇―――――
+　日本銀行総裁任命につき同意を求めるの件
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>2</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　お諮りをいたします。
+　内閣から、
+　日本銀行総裁に黒田東彦君を
+任命することについて、本院の同意を得たいとの申し出があります。右申し出のとおり同意を与えるに賛成の諸君の起立を求めます。
+　　　　〔賛成者起立〕
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>3</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　起立多数。よって、同意を与えることに決まりました。
+　　　　　――――◇―――――
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>4</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　本日は、これにて散会いたします。
+　　　　午後零時十八分散会
+　　　　　――――◇―――――
+　出席国務大臣
+　　　　　　　国務大臣　　菅　　義偉君
+</speech>
+                    </speechRecord>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/183/0001/18304050001015a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/183/0001/18304050001015.pdf</pdfURL>
+                </meetingRecord>
+            </recordData>
+        </record>
+    </records>
+</data>
