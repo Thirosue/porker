@@ -47,24 +47,24 @@ $(document).ready(function(){
            if(id==index) {
                var target = cards[id];
                $('#select').append(
-                   "<td>" +
+                   "<td data-id='" + index + "'>" +
                    "<p>"+ target.name +"（"+ target.party +"）</p>" +
                    "<img src='public/" + target.portrait_image + "'>" +
                    "</td>"
                );
            }
         });
+
+        if(5 == $('#select td').size()) {
+            //集計
+            var point = 0;
+            var rank = 0;
+            $("#select td").each(function(){
+                point = point + cards[id].number_of_records;
+            });
+
+            $('#point').html(point);
+            $('#rank').html(Math.round( Math.random()*100));
+        }
     });
-
-    //集計
-    var point = 0;
-    var rank = 0;
-    //$.each(speaks,function(index,val){
-    //    point = point + val.speak_count;
-    //    rank = Math.round( Math.random()*100 );
-    //});
-
-    //$('#point').html(point);
-    //$('#rank').html(rank);
-
 });
