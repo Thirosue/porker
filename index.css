@@ -70,3 +70,8 @@ header {
     margin: 0px 10px;
     
 }
+
+#select td {
+    width: 156px;
+    height: 199px;
+}

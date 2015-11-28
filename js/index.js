@@ -1,6 +1,9 @@
 /**
  * Created by takeshi_hirosue on 2015/11/28.
  */
+
+var cade_no;
+
 $(document).ready(function(){
 
     //カードリスト
@@ -27,7 +30,7 @@ $(document).ready(function(){
     cards.push({  "id" : 19,  "name" : "小野寺 五典",  "furigana" : "おのでら いつのり",  "party" : "自民",  "constituency_broad" : "宮城",  "constituency_narrow" : "6",  "win_count_lower_house" : "6",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "087.jpg",  "number_of_records" : 3646,  });
 
     $(".search").click(function () {
-        if(5 == $('#select td').size()) {
+        if(5 == $('#select img').size()) {
             return false;
         }
 
@@ -58,24 +61,26 @@ $(document).ready(function(){
     });
 
     $(document).on("click",".card-select", function(){
-        if(5 == $('#select td').size()) {
+        if(5 == $('#select img').size()) {
             return false;
         }
 
         var id = $(this).data('id');
+        var target;
         $.each(cards,function(index){
            if(id===index) {
-               var target = cards[id];
-               $('#select').append(
-                   "<td data-id='" + id + "'>" +
-                   "<p>"+ target.name +"（"+ target.party +"）</p>" +
-                   "<img src='public/" + target.portrait_image + "'>" +
-                   "</td>"
-               );
+               target = cards[id];
            }
         });
 
-        if(5 == $('#select td').size()) {
+        $('#select td').eq(cade_no).html(
+            "<p>"+ target.name +"（"+ target.party +"）</p>" +
+            "<img src='public/" + target.portrait_image + "'>"
+        );
+
+        $('#select td').eq(cade_no).data('id',id);
+
+        if(5 == $('#select img').size()) {
             //集計
             var point = 0;
             var rank = 0;

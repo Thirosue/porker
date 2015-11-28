@@ -5,6 +5,9 @@ $(document).ready(function(){
 
     // 「.modal-open」をクリック
     $('.modal-open').click(function(){
+        cade_no = $(this).data('no');
+        console.log('select' + cade_no + '....');
+
         // オーバーレイ用の要素を追加
         $('body').append('<div class="modal-overlay"></div>');
         // オーバーレイをフェードイン
