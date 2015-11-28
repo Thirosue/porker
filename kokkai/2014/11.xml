@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>50</numberOfRecords>
+    <numberOfReturn>1</numberOfReturn>
+    <startRecord>11</startRecord>
+    <nextRecordPosition>12</nextRecordPosition>
+    <records>
+        <record>
+            <recordData>
+                <meetingRecord>
+                    <session>187</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>本会議</nameOfMeeting>
+                    <issue>6号</issue>
+                    <date>2014-10-21</date>
+                    <speechRecord>
+                        <speechOrder>0</speechOrder>
+                        <speaker></speaker>
+                        <speech>平成二十六年十月二十一日（火曜日）
+　　　　―――――――――――――
+　　平成二十六年十月二十一日
+　　　　午後一時　本会議
+　　　　―――――――――――――
+○本日の会議に付した案件
+　厚生労働委員長の選挙
+　裁判官訴追委員辞職の件
+　裁判官訴追委員の選挙
+　　　　午後二時三十二分開議
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>1</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　これより会議を開きます。
+　　　　　――――◇―――――
+　厚生労働委員長の選挙
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>2</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　厚生労働委員長から辞任願が議長に出ており、それを許可いたしましたので、ただいま欠員となっております。この際、厚生労働委員長の選挙を行います。
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>3</speechOrder>
+                        <speaker>橘慶一郎</speaker>
+                        <speech>○橘慶一郎君　厚生労働委員長の選挙は、その手続を省略して、議長において指名されることを望みます。
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>4</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　橘慶一郎君の動議に御異議はありませんか。
+　　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>5</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　御異議なしと認めます。したがって、動議のとおり決まりました。
+　議長は、厚生労働委員長に渡辺博道君を指名いたします。
+　　　　〔拍手〕
+　　　　　――――◇―――――
+　裁判官訴追委員辞職の件
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>6</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　次に、お諮りをいたします。
+　裁判官訴追委員鳩山邦夫君から、訴追委員を辞職いたしたいとの申し出があります。その申し出を許可するに御異議はありませんか。
+　　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>7</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　御異議なしと認めます。したがって、許可することに決まりました。
+　　　　　――――◇―――――
+　裁判官訴追委員の選挙
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>8</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　つきましては、裁判官訴追委員の選挙を行います。
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>9</speechOrder>
+                        <speaker>橘慶一郎</speaker>
+                        <speech>○橘慶一郎君　裁判官訴追委員の選挙は、その手続を省略して、議長において指名されることを望みます。
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>10</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　橘慶一郎君の動議に御異議はありませんか。
+　　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>11</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　御異議なしと認めます。したがって、動議のとおり決しました。
+　議長は、裁判官訴追委員に保岡興治君を指名いたします。
+　　　　　――――◇―――――
+</speech>
+                    </speechRecord>
+                    <speechRecord>
+                        <speechOrder>12</speechOrder>
+                        <speaker>伊吹文明</speaker>
+                        <speech>○議長（伊吹文明君）　本日は、これにて散会いたします。
+　　　　午後二時三十四分散会
+</speech>
+                    </speechRecord>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/187/0001/18710210001006a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/187/0001/18710210001006.pdf</pdfURL>
+                </meetingRecord>
+            </recordData>
+        </record>
+    </records>
+</data>

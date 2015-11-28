@@ -1,0 +1,2 @@
+for file in *.jpg; do convert "$file" -alpha set -background none -channel RGBA -fill '#00000000' -fuzz 5% -draw 'matte 1,1 floodfill' "transparent/${file%.*}.png"; done
+

@@ -1,0 +1,77 @@
+*{
+    //color: #ff0000;
+}
+
+#up_frame {
+    height: 345px;
+    background-color: #141414;
+}
+
+#down_frame {
+    
+    height: 300px;
+    background-color: brown;
+    text-align: center;
+    
+}
+
+#up_image {
+    text-align: center;
+}
+
+#up_image > img {
+
+    
+}
+
+header {
+    
+    height: 60px;
+    background-color : #0A2C5F;
+    
+}
+
+#info_left,#info_right {
+    
+    background: #632042;
+    width: 400px;
+    margin-top: 20px;
+    height: 250px;
+    
+    
+}
+
+
+#info_left {
+    
+    float: left;
+    margin-left: 7%;
+    
+}
+
+#info_right {
+    
+    float: right;
+    margin-right: 7%;
+}
+
+#cards{
+    
+    margin-top: -300px;
+    
+}
+
+#select {
+    margin: 0 auto;  
+}
+
+#select img{
+    
+    margin: 0px 10px;
+    
+}
+
+#select td {
+    width: 156px;
+    height: 199px;
+}
