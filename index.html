@@ -1,23 +1,49 @@
 <html>
 <head>
 <title>国会議員ポーカー</title>
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
+    
+    <header>
+        <h3>手札</h3>
+    </header>
+    
+    <div id="up_frame">
+        <div id="up_image">
+            <img src="images/main_bg.jpg">
+            <div style="border: double" id="cards">
+                <table id="select">
+                </table>
+            </div>
+        </div>
+    </div>
+    <div id="down_frame">
+        <div id="info_left">
+            <div style="border: double">
+                <span>POINT:<p id="point"></p></span>
+                <span>RANK:<p id="rank"></p></span>
+            </div>
+        </div>
+        <div id="info_right">個々のパラメーター</div>
+    </div>
+    
     <h3>議員を５枚選択してください</h3>
     <div>
+    
+    <footer></footer>
+
+        
+        
+        
+        
         <ul id="list">
         </ul>
     </div>
-    <h3>手札</h3>
-    <div style="border: double">
-        <table id="select">
-        </table>
-    </div>
+    
     <br>
-    <div style="border: double">
-        <span>POINT:<p id="point"></p></span>
-        <span>RANK:<p id="rank"></p></span>
-    </div>
+    
 </body>
 <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
 <script src="js/index.js"></script>
