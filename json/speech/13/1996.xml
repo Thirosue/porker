@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>495</numberOfRecords>
+    <numberOfReturn>30</numberOfReturn>
+    <startRecord>1</startRecord>
+    <nextRecordPosition>31</nextRecordPosition>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>本会議</nameOfMeeting>
+                    <issue>7号</issue>
+                    <date>1996-12-17</date>
+                    <speechOrder>7</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野幸男君　お答えをさせていただきます。
+　まず最初にお尋ねの常任委員会との関係についてお答えを申し上げます。
+　本法案において行政監視院に付与することとしている権限は、憲法六十二条の規定する国政調査権を行政監視院に授権したものではございません。この法律によって創設した特別の権限として構成いたしております。すなわち、両議院の国政調査権とは緊密な関連を持ちつつも、あくまでもこれとは別個の権限として行政監視院に認めたものであります。したがいまして、国政調査権が行政監視院に実質的に移しかえられることとなるものとは考えておりません。
+　次に、個々の議員集団の要求に応じる形で行政監視院が監視等を開始するものとしている点に関するお尋ねでございますが、今述べましたとおり、行政監視院の有する権限は国政調査権とは別個の権限であります。個々の議員集団の要求に応じる形で行政監視院が行います監視の権限は、個々の議員に与えられている質疑権あるいは質問権等と同様の、議員としての活動を補佐するための権限であります。
+　すなわち、例えば、「議員に役立ち得る資料を提供する」との規定のあります国会図書館立法考査局の権限、あるいは「議員の法制に関する立案に資するため、」とされる議院法制局の権限などと軌を一にするものであると考えております。したがいまして、憲法上の国政調査権が両議院やその委員会、調査会等にしか認められていないこととの関係で、憲法上の問題を惹起するものとは考えておりません。
+　次に、行政監視院による調査や評価の基準について、行政監視委員三名の価値観にゆだねるのは避けよとの御意見をいただきました。私どもも、御指摘の視点から、行政監視委員の任命に当たって、両議院の承認を必要とし、その職務が公正不偏、誠実に行われるよう制度的な担保をしているところでありぎす。
+　また、そもそも行政監視院の任務は、私たち国会議員の立法活動を支えるための行政の監視と国会への報告、意見具申でありまして、それをどのように生かすのか、また殺すのかも、私たち国会議員自身が、国会においてそうした職務を受け、立法活動に取り組むかにかかっているのであります。
+　御指摘の包括的な調査の問題につきましては、どの程度具体的な調査の依頼をするのか、その仕方については委員会あるいは議員集団の判断にゆだねられておりまして、私たち国会議員の見識と行動によって御懸念のような問題は生じないと考えております。
+　次に、総務庁の監察が不徹底であるということに関連する御指摘でありますが、私どもは、そもそも行政機関同士の監察では健全な緊張関係をシステムとして保つことはできないと考えております。例えば、予算の査定権を持つ大蔵省に対して総務庁が十分な監察をできているのかどうか。住専問題などが監察の対象にさえならなかったことから見ても、疑問と言わざるを得ません。総務庁は各省庁の行政執行上の問題点を指摘して改善策を勧告することはできますが、例えば、私が本院の厚生委員会及び行政改革に関する特別委員会における質疑で指摘を申し上げましたとおり、勧告には法的拘束力がなく、また、勧告後の法律の改廃の起案まで責任を持つまでの権限はございません。
+　実際に、平成四年、社会福祉法人に関する行政監察と勧告を行っているにもかかわらず、いわゆる岡光・茶谷問題の発生を事前に防止することはできませんでした。そして、その理由について、総務庁行政監察局は、勧告の趣旨全体が末端まで浸透していればこういうふうな問題というのは防げたのではないかというふうに考えておりますと国会で答弁をされております。
+　こうしたことを考えますと、フォローアップの体制が十分でなく、言いっ放しになってきた事実は否めません。行政内部における省庁を横断した指揮命令が認められず、また、政府部内での最終的な法律の制定、改廃の起案権を所管省庁が握っている現在の法体系のもとでは、総務庁がいかに調査と勧告を行っても、行政自身による行政のスリム化は行われにくく、行政の改善を求める民意が反映されません。だからこそ、私たちは、行政監視院のような、国会による行政の監視監督をサポートする機関が必要だと考えるものであります。
+　また、各省庁の内部監察体制についてのお尋ねですが、基本的には、国の事業及び行政事務を一体的に遂行する責任を負った単位であります各省庁内部において、行政監察の専門部署を設置し、監察に係る専門的な人材を配置して、みずから必要な監察を行うべき責任を負っているものと考えております。
+　例えばアメリカでは、日本の行政監察局のような集中した組織ではなく、行政を遂行する各省庁ごとに、その内部監察機能を担う専門家を配置する監察総監の制度があると聞いております。監察総監は上院の承認を得て大統領によって任命されますが、弁護士や会計士などの資格を有する人材が任命され、そのもとに各省内に百名程度以上の監察官を据え、内部監察を実施しているそうであります。しかしながら、我が国の現在の各省庁の内部監察体制は不十分と言わざるを得ず、総務庁行政監察局という法的強制力を持ち得ない二次的な組織の存在をもってこの不十分さをあいまいにしてまいりました。
+　私たちは、行政監視院という外部監察機能を強化する一方で、本来あるべき内部監察の姿である各省庁内での監察体制については、政府みずからが責任を持って対応していただきたいと考え、また、対応していただけるものと確信を持っております。
+　残余の質問については、担当の提案者から答弁をさせていただきます。（拍手）
+　　　　〔菅直人君登壇〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0001/13912170001007a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0001/13912170001007.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>本会議</nameOfMeeting>
+                    <issue>7号</issue>
+                    <date>1996-12-17</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野幸男君　山本議員より、私どもの提案に大きな関心と、そして期待をいただきましたことに、まずはお礼を申し上げます。私どもの答弁をお聞きいただければ、ぜひ御理解をいただいて御賛同いただけるものと思っておりますので、よろしくお願い申し上げます。
+　まず、会計検査院との関係に係る第一及び第二の御質問に対してお答えを申し上げます。
+　まずそもそも、例えば現行の総務庁行政監察局におきましても、必要に応じ帳簿調査等会計的見地からの検査は行われております。したがいまして、現状の総務庁と会計検査院との間でも、実際の業務における調査手法が重なることはあり得ることでありまして、これは相互の目的の違いの中で、現実の現場における調査手法が一致をすることがあっても、別組織であることが合理的であるという理由に基づいているものと考えております。
+　ところで、行政監視院は、国会が憲法上行政監督権を有することに基づきまして、現行の行政システムの問題点や行政執行の効率性、許認可行政のあり方、行政指導、行政計画の適切性等につきまして、現行法規の適否も含めて監視を行うことを目的といたしております。一方、会計検査院は、主として会計処理上の不正、不当を現行法体系を前提として検査することを目的といたしておりまして、双方の目的には大きな差異がございます。
+　こうした形で調査の目的や調査内容が大きく異なるわけでありますから、むしろ別組織としてそれぞれに仕事をしていただいた方が効率的ではないかという判断をさせていただきました。そして、両機関の調査の対象あるいは調査の技法が重複する場合には、本法案の三十一条に定めましたとおり、会計検査院に対して適切な協力要請を行うという形で、実際の協力を緊密にしていただく、この実務の運用の中で相当程度にその効果は発揮できるものと私どもは考えております。
+　次に、総務庁行政監察局を吸収した場合の業務の調整等の御質問がございました。
+　私どもは、先ほど虎島議員からの質問にお答えしましたとおり、行政の内部監察は、本来、監察結果について強制力を持ち得る各省庁ごとの監察機能こそが重要であり、これを拡充すべきであると考えております。
+　なお、特殊法人等の問題について申し上げますと、従来の総務庁行政監察局の権限は、特殊法人に対して勧告はできますが、あくまでも勧告どまりであります。私どもが提案をいたしました本法案によれば、意見具申を国会が取り上げれば、管轄下にあります特殊法人はもちろんのこと、そのもとになっている設置法の制定、改廃によって、省庁の組織の存在にまで影響を与えることが可能とされております。こうした形で法の改廃によって存立そのものまでしっかりとしたメスを入れることができる行政監視院制度の方が、より実効性が担保できるものと考えております。
+　残余の御質問につきましては、担当の提案者よりお答えをさせていただきます。（拍手）
+　　　　〔安住淳君登壇〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0001/13912170001007a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0001/13912170001007.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>106</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　民主党の枝野幸男でございます。
+　私どもは、まさに行政改革、政治の責任としてしっかり進めていきたい。そのためには党派を超えて、自民党さんであれ新進党さんであれ共産党さんであれ、ともにできることについては一緒にやらせていただきたい。橋本総理を初め行革に対して強い決意を示していただいておりますので、ぜひ一緒にやれるところはやらせていただきたいと思っておりますが、鳩山代表の代表質問の中でもお話をさせていただきましたように、私どもが行政改革の第一歩として国会に提出をさせていただきました行政監視院法及びこれに付随します総務庁設置法の改正法案、これは橋本内閣の行政改革にかける姿勢について一種のリトマス試験紙であるというふうな認識を私どもは持たせていただいております。
+　そうした前提のもと、この行政監視院に関連をいたします総務庁行政監察局に絡んで、幾つか御質問をさせていただきたいと思っております。
+　まず、先月の二十七日の衆議院厚生委員会閉会中審査において、例の厚生省の問題に関連をいたしまして私が質問をさせていただきました中で、総務庁行政監察局から、実は特別養護老人ホーム、社会福祉法人に関する行政監察を行っていて、平成四年六月に厚生省に勧告を出していた。そして、その厚生委員会での総務庁の御答弁は、この「勧告の趣旨が徹底されておればこのような事態は防ぐことができた問題であるのではないかと考えております。」こうした御答弁をいただいております。こうした事実関係、よろしゅうございますね。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>108</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　なぜ徹底をしていなかったかということがそこで問題になるわけです。
+　勧告は、勧告をすることが目的ではなくて、勧告の結果として是正をさせることが目的なんであって、では、行政監察局が例えば今回の場合厚生省に行った勧告には、法的拘束力はあるのでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>110</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　少し比較のために、大蔵省、大蔵大臣にお尋ねをしたいと思いますが、会計法の四十六条で、大蔵大臣は予算の執行に関して、監査をした上で、必要があれば各省各庁に対して「必要な指示をなすことができる。」となっています。この指示は法的拘束力があると思いますが、そうした認識でいいのかどうか。そして、これは「閣議の決定を経てこという条件がついています。閣議の決定がなければこういった法的拘束力のある勧告はできない、指示をすることはできない、こういう理解でよろしいでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>112</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　大蔵省の法的拘束力のある指揮は、これは閣議決定を経ていないとできない。そして、総務庁長官が行う行政監察に基づく勧告は法的拘束力がない。これは、その認識自体若干いろいろと疑問がありますが、現在の憲法あるいは内閣法に対する内閣法制局の解釈では、行政権は内閣にあるのであって、行政各部の大臣が他の行政庁に対して指揮命令する関係にはない。
+　実は、私が自社さの与党時代に総理大臣の権限強化という話をしましたら、内閣法制局が、内閣総理大臣ですら各省大臣に対して閣議で定められた基本方針がなければ指揮命令ができない、ましてや横並びの総務庁長官が、例えば他の、隣の大蔵大臣に指揮命令することはできない。それが現行の、少なくとも内閣の見ている内閣法あるいは憲法の解釈であると理解してよろしいですね。
+　法制局で結構です。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>114</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　それではもう一つ、比較をさせていただくために、会計検査院の会計検査の結果のことについてお尋ねをさせていただきますが、会計検査院が検査の結果として予算の執行等について不当であるという判断をしましたときに、これは、行政庁をその不当という判断は縛るのでしょうか、練らないのでしょうか。
+　会計検査院、お願いします。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>116</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　以上の話を、総理あるいは総務庁長官、お聞きをいただいていたと思うんです。総理も、あるいは総務庁長官も、公式にと言っていいのかどうかはともかくとして、行政にも内部監査が必要であるということで行政監察局を事実上廃止をするという話についていろいろな御意見をおっしゃっておられますが、今お話をお聞きいただきましたように、法的拘束力を持つ勧告をする権限は総務庁行政監察局にはないわけですね。そして、あくまでも行政監察は、検査をしてどこがおかしいと見つけることが目的ではなくて、見つけた上で改善をさせることが目的なわけです。現実に、今の制度の中では、それは先ほど総務庁御自身がお認めになったように、守られていれば今回の埼玉の特養の話は起こらなかったと言われているように、守られていないわけです。
+　確かに、法的拘束力、法的な裏づけというのは最後の最後に出てくる話であって、事実上勧告されれば守られるということが大部分であったとしても、基本的に、先ほど総理も新進党の質問に対して法治国家ですからとおっしゃっていたとおり、この国は法治国家である以上は、守らせる裏づけとして最後の最後は法的拘束力があるんですよという話があるからこそ守らせることができるのであって、逆に、法的拘束力がないもので守らせるということはおかしいわけです。
+　そうすると、今総務庁が監察をしていても、それはある意味では総務庁のマスターべーションであって、それに基づいて変えることができない権限ということでは、そもそも監査と言えないんじゃないか。監査と言える以上は、少なくともきちんと守らせるための法的な裏づけを持たせなければならない、そういう認識になると思うのですが、まず総務庁長官、いかがでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>118</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　今、会計検査院という話を総務庁長官の方から言っていただいて大変ありがたかったんですが、先ほどお聞きいただいたとおり、会計検査院の検査の結果について、これに対して強制力を担保している裏づけは国会に対する報告。要するに、国会が裏づけになっているわけです。会計検査院が検査した結果を行政庁に守っていただくということ、だから我々は同じように、国会に行政監視院を置いて、会計検査院と同じように、国会の立法機能あるいは国会の行政府に対する監督機能というものを通じて守っていただければいいんじゃないかということで、総務庁の行政監察局を減らした分で国会の方に八百人規模の行政監視院をつくりましょうという提案をさせていただいているのです。
+　そして、内部監査、内部監査ということを常におっしゃいますが、これは、内部監査というのは何なのかという話を一度ぜひ考えていただきたい。各役所ごと、つまり、例えば前々から出ていますとおり、郵政省の中には、お金を扱うということで郵政省の中の内部監査があるわけです。そして行政監察局は、今行政という中では内部監査とおっしゃいますが、各省庁からすれば外部監査なわけです。外部か内部がということは、別に霞が関やあるいは永田町にとって内部なのか外部なのかということが余り問題ではありません。国民との関係で、国民の税金が有効に使われているのかどうかということがある意味では内部か外部がということの重要なポイントであります。
+　そうした意味では国会も行政府も、ある意味では行政府が憲法上国会に対して連帯して責任を
+負っている、国会もある意味では行政府と、国民に対しては、連帯という言葉がいいかどうかはともかくとして、一体として責任を負っているわけです。したがって、国会に監察機能を置いたとしても、国民から見ればそれは内部監査なんです。それは、どの部分で切っているとか、内部といったときに、課ごとに見るのか局ごとに見るのか省ごとに見るのか、行政という単位で見るのか、あるいは国権の機関という形で見るのか、それによって内部か外部かなんて相対的な話であって、国民から見て内部監査が必要だと、国権という意味で、国の行政、政治という意味で、国会に置くのも内部監査じゃないですか。そういうことにこだわる必要は全くないと私は思いますが、いかがでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>120</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　内部できちんとしたものができるんだったら、それは一つのやり方としてあると思います。先ほど御議論を聞いていただいたとおり、要するに、内閣総理大臣であってもだと思います、これは。今の内閣法なり、あるいはこれは、法制局の考え方としては多分憲法上の要請しやないでしょうかね。例えば官邸に置いたとしても、総理大臣が手元に置いたとしても、内閣総理大臣は、その行政監察の結果について指揮命令はやはり各省大臣にはできないんじゃないですか。やはり閣議決定がないとできないわけですよ。
+　じゃ、その閣議はどうなっているのかといえば、前回予算委員会で私どもの菅代表がお尋ねをしましたとおり、閣議に上がってくる案件は、総理は一生懸命、閣僚懇談会を使って閣僚同士の議論もしたとおっしゃいますが、基本的な案件は事務次官会議を上がってこないと閣議決定しないという慣例が続いていて、基本的には総理もそれを守ろうとされている。
+　ということは、総理のもとに置いたとしても、どこに置いたとしても、その監察結果が閣議決定される前には、事務次官会議に了解されなければならないうちの役所のところにこんな監察で命令されちゃ困るよ、こんな、ちょっとこれぐらいのごまかしは勘弁してくれよだなんてことを事務次官会議で決められちゃったら閣議にすら上がってこないということで、今の内閣制度を前提としたら、内閣の中に、法的な裏づけを持ち、なおかつ各省庁に顔色をうかがわないではしっとしたことを言えるような、そんな仕組みをつくること自体が残念ながらできないと私は思っています。
+　しかも、そうした中で、私どもがこの問題を行政改革の橋本内閣の姿勢に対するリトマス試験紙、判断材料ということで鳩山代表が言わせていただいたのは、一つには、まさに国会の機能を高めるという行政監視院をつくるということの意味と、もう一つは、まさに総務庁という行政改革を中心になって進めなきゃならないその役所が、まさに腕より始めよで、みずから一番最初に血を流す、大きな血を流すという姿勢を示すからこそ、初めて他の省庁に対して、おまえのところも削れ、おまえのところもばらばらになれということを総務庁長官が堂々と言える。それに対して、世論も拍手喝宋を送って後押しをする。
+　晩よりまず始めるという意味で、行政監察局の機能を全部削ってしまって路頭に迷えと言っているんじゃなのです。かなりの部分は国会につくる機関に専門的な調査のノウハウを持ってきていただいていいと思っています。そこの、まさに腕より始める姿勢というものが総務庁という行政改革を中心になって進めなきゃならない役所の姿勢として問える話であるという認識のもとで、私たちはこれが判断材料として適切であるという認識を持たせていただいているわけです。
+　そうした腕より始めるという姿勢から考えても、一刻も早く総務庁から手放すという姿勢をお示しになってこそ、この話は、他の行政改革について総務庁長官のまさに指導力というものが強まっていくのじゃないですか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>122</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　最後に、時間が切れますので、総理にお尋ねとお願いをさせていただきたいのですが、私どもは、与党なのか野党なのかということをマスコミその他からさんざん言われている中で、ぜひ前向きに、一緒にできる話についてはさせていただこうということで、この行政監視院法をぜひ一緒にやりませんかということを、これは自民党だけではありませんが、各党に投げさせていただいて、受けとめていただいております。これに対して、自由民主党の総裁として、ぜひ自民党の党内で早期に対応を決めていただいて、投げ返しをしていただきたい。
+　万が一にも来年の秋という、橋本内閣としてやろうとしている行政改革の大きな計画の中まで先送りをするというようなことでは、私どもとしてはそれに残念ながらおつき合いをすることはできませんので、それは検討に時間がかかるのはわかりますが、ある程度の投げ返しというものを、もし一緒にやる気が本気であるのであるならばしていただきたい。そういった指揮を自由民主党の総裁としてしていただきたいと思いますが、いかがでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>139</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>行政改革に関する特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-12-13</date>
+                    <speechOrder>124</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　ありがとうございました。
+　時間が来ましたので終わりますが、ぜひ前向きな検討をして、私どもとできれば一緒にやれるような橋本内閣であってほしいと思っておりますので、よろしくお願いいたします。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/139/0780/13912130780002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>129</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　民主党の枝野幸男でございます。
+　別に打ち合わせをしたわけではないのですが、今の山本議員と同じような問題点から質問させていただきます。
+　まず、まさに今月の件は補助金制度を悪用したと言っていい事件だと思いますが、そもそもこの補助金制度を悪用できること自体に問題があるのではないかという問題意識を持っております。
+　そこでまず、端的に伺いますが、特別養護老人ホームの設立認可あるいはそこに対する施設整備費の補助金の交付決定、これは自由裁量でしょうか、羈束裁量でしょうか、行政法上。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>131</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　そうすると、例えば今回の件は、特別養護老人ホームの設立認可は形式的には埼玉県知事、実質的には茶谷課長が自由に認可をするかどうかを決めることができるという理解でよろしいですね、法的には。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>133</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　私は、法的にということを聞いてい
+るのです。
+　ですから、例えば今回は、茶谷容疑者は贈収賄に該当するようなお金のもらい方をしているから犯罪になっています。しかし、これがたまたま贈収賄に該当しない程度のおつき合いがあって、仲よしだから少し便宜を図ってやろうという内心の意図を持って今回のことをやっていても、その内心の証明ができない限りは違法にはならない、不当かもしれないけれども違法にはならない、そういうことになりませんか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>135</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　それでいいのですか。わからないでいいのですか。
+　つまり、要するに丸投げみたいなことをやって、小山が中間をかすめ取って利益を上げていると報道されているわけですね。こういったことが今の仕組みの中でできるわけですよ。今の仕組みの中でできて、そして、それに対して認可を与えて、補助金交付を事実上これも決定をした茶谷容疑者が、今回はたまたま、多分彼にしてみればうかつにも犯罪に当たるような形でお金を受け取ってしまったから、これは問題にされていますよ。
+　だけれども、まさに犯罪に該当しない、贈収賄に該当しないぎりぎりの線で同じようなことをやって、小山のような人間が中間をかすめ取って、税金、補助金を懐に入れるようなことがあっても、それがどういうところで違法になるのかならないのかわかりませんだなんて、ここから先は違法になるのですというところが、線がはっきりしていないからこういういいかげんなことが起こるのじゃないですか。どこから先が違法になるのか、どこから先が法的にだめなのかという線が今は引けないのでしょう。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>137</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　厚生省の局長をやっている方が行政法をわかっていないのでは困るのですけれども、私は、羈束裁量か自由裁量がと聞きましたでしょう。こんなものを全部がちがちで縛るだなんて初めからあり得ないというのはわかっているのです。羈束裁量というのは、裁量の幅を持たせるけれども、その幅についてしっかりとルールが決まっているというのが羈束裁量です。それをしていなくて自由裁量だと言っているわけです。そこが問題じゃないですか。
+　一定の、法律とは言いませんよ、法律の下の政令でも省令でもいいですよ、細かいところは。法律に基づいていればそれは法ですから。ところが、これはないわけですよね。何もない。何か通達だか何だか、法にはならないわけのわからないところの基準しかない。だから、何をやってもオーケーなわけです。だから自由裁量かどうかと聞いた。自由裁量だとお答えになったのでしょう。
+　一定の基準ぐらいちゃんと法で決めておけば、その基準を飛び越えたときには、そのこと自体が違法になるのですよ。ところが、そのルールをつくっていないから、だから担当課長が自由に、どこかの村では二つ出てきたのを、片方がずっとよさそうなのに、違う小山の方のをとったりするということは、まさに自由裁量で基準が全く示されていないから、少なくとも法的に基準がないから、ああいったことが、いいかげんなことが起こるわけですよ。
+　がちがちに全部細かくやり過ぎたらいけないですよ。もちろん政策的な判断の幅は要りますよ、こういった問題は。だけれども、せめて法に基づいた。つまり法律か政令か省令がで基準をしっかりと決めて、その基準に基づいて判断をしなければ、金をもらっていようがもらっていまいが、その判断をした担当者は違法行為なんだということになるようたルールをつくるから法治国家なので、そんなことを一課長が勝手に全部自由裁量で決められるというルール自体おかしいと思いませんか。大臣、どうでしょう。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>139</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　もう一つ同じようなことがあるのですが、今回の老人ホームでは、建設工事を事実上の丸投げをして、しかも、自分の関連会社にまず請け負わせて、そこが丸投げをして、そこで中間の利ざやを抜いて、それがいわゆる補助金をポケットに入れているという話になっているわけですね。
+　これは、丸投げをしてはいけないというような法があるのですか。あるいはもう一つ、自分の関連会社に請け負わせるようなことはしてはいけないというような法があるのですか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>141</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　後段の方も問題なんですが、まず前段の方、まさにそこが問題で、地方公共団体なり国なりが発注者になってそれで丸投げ云々という話のときには、まさに国なり地方公共団体が同意を出すかどうかを決めるわけですから、それは一応チェックになるわけですよね。
+　ところが、今回のように、補助金を出した先が発注者になってそこの同意でいいということだったら、今回のことは幾らでもできるというルールなわけですよ。自分の関連会社に落とさせて、そこの同意を出すのは当たり前じゃないですか。ということは、これは法自体がまさにこんなことを
+やっていいですよという法になっていたということだけですよ。
+　それからもう一つは、まさにそういったことが適切ではないといったら、じゃ、だめですよといってやめさせる強制権限があるのですか、ないのですか。行政指導するだけではないのですか。ということは、またこういうことをやったことについて違法だといって追及――やはりこれも先ほどの話と同じで、お金のやりとりが何か贈収賄に一当たっていなければ法的にはオーケーなわけですね。どうですか、局長。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>143</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　例えば、補助金を出した先の特養がどういうところに発注をして、どういう手続でそこに発注することになって、そこがどの程度の見積もりを出していてどういうことになっているという詳細は、今の法制度上、補助金を出すことを決めた厚生省は把握できるルールになっているのですか。そして、把握をしているのですか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>145</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　指導をして、一般競争入札をしたのか、それとも一般競争入札じゃないルールが、特別な事情があって競争入札じゃなくやったのかということはその段階で入手をするようなルールになっていますか、なっていませんか。イエス、ノーだけでいいです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>147</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　結局全部、指導とかなんとか言っていますけれども、法的にはこういうことが許される制度に今までなっていたということですよ。だからこそ、おかしなことをやろうとする業者は、課長のところに接待をしたりとか、局長に接待したりとか、次官に接待したりとかして、場合によっては金を渡したりして、そこの自由裁量の中でこういうことができるように引き込んでいこうとするのは当たり前のことですよ、逆に言えば。これで金もうけ、少なくとも贈収賄という部分以外では違法じゃなくこういうことができてしまうわけですから、その権限を持っている課長一人おっことせば。
+　というところが問題なんですが、こんなことはルール上ではっきりするわけですけれども、なぜ見落としていたのか。会計検査院と総務庁の行政監察局にお答えいただきたい。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>150</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　まず会計検査院ですが、会計検査院は要するに今の仕組みでは実際に不当な支出が行われたということを確認しないと物が言えないという、会計検査院というのはそういう仕組みですよね。こういうルールでは不当な支出が出る余地がありますよということは言えないのですね。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>152</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　聞かれたことだけ答えてくださいね。
+　それから総務庁、勧告したのがちゃんと守られていれば防げたのじゃないかとおっしゃっていますが、少なくとも私が手元にいただいている資料では、四年の六月に勧告をして、四年の十二月に回答があって、その後の措置状況の回答が六年の五月にあって、その六年の五月の段階ではちゃんと措置したということじゃなかったということになるわけですね。その後は何かしたのですか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>154</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　おかしいじゃないですか。改善をしたという報告を受けていたということを今おっしゃったけれども、その前の答弁では、徹底をしていれば防げたとおっしゃっているのですよ。どっちが正しいのですか。徹底はしていなかったのですね。徹底はしていなかったのだけれども見逃したのですか、それとも徹底をしたと思っていたのですか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>156</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　総務庁の方、先ほどの厚生省との議論、聞いていらっしゃいましたよね。結局、通達とか基準とかなんとかいろいろつくっても、今回のことは、少なくとも贈収賄の部分を抜かせば適法にできるルールで今まで来ていたわけですよ。基準とかなんとかいったって、それを社会福祉法人に守らせる強制手段はなかったわけですよ。丸投げしちゃいかぬとか、関連会社にやらせちゃいかぬとか、それから、少し担当の権限を持っている課長を抱き込んで自分のところに優先的に認可をおろさせようとかということを防ぐ法がなかったわけですよ。
+　どうしてその法改正を求めないのですか。本当は法改正を求めなければおかしかったわけですよ。基準をきちんと、こういった基準で特養の認可をする、こういう基準で補助金を出す、補助金を出してもらったところは、こういうルールで最低限守らなければならないのは、自分の関連会社に落としたりとか、そこから丸投げさせて中を抜いたりというようなことはできないようなルールをつくれと言わなかったわけですし、そういう感覚がないわけです。それは言えないのですか、法改正をしろということは。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>158</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　総務庁として、結局だめだったわけですね。勧告したのに起こったわけですよ。その責任、どうとるのですか、総務庁は。勧告していないならいいですよ。手が回らなかったからやっていないならいいですよ。あなたたちは勧告をして、勧告をちゃんとやってくれればこんなことは起こらなかったと片方で言っているのですよ。でも徹底できなかったということは、総務庁に責任があるのか、厚生省がうそをついたのか、ルールとして行政監察というあなた方の制度が無理なのか、三つに一つしかないでしょう。どれなんですか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>160</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　あなた方は内部監察で、内部監察も必要だから行監局は廃止しないでくれといろいろおっしゃっているようですけれども、今重大なことを言っているわけですよ、厚生省が守っていただけると思っていたから。監察というのは何のためにあるのかといったら、信用しちゃだめだからチェックをするために監察があるのですよ。信用していいのだったら初めから厚生省に任せておけばいいので、監察局は要らないわけですよ。監察局が監察をするということは、残念ながら、同じ仲問うちだけれども、任せておくと間違いがあるかもしれないからチェックをするために監察局があるのですよ。それなのに、厚生省に言ったから、勧告したから、厚生省がやってくれると思っていましたなんというのじゃ、監察局、自己否定していることになりませんか。やはり要らないです、内部には。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>162</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　何か今の御答弁だと、知事が徹底しなかったのが悪いとおっしゃっているようですね。土屋さん、ぜひそうお伝えください、知事さんに。
+　結局、発想が違うのですよ。今の最初からの厚生省からの話自体を多分大臣以外は御理解いただけなかったのだろうと思うのですけれども、行政指導とか行政が基準をつくったって、それに反しても違法にはならないわけですよ。あくまでも、不当かもしれないし、行政の内部ではけしからぬじゃないかという話があっても、指導しかできないのですよ。法治国家なんだから法をちゃんと決めて、それは幅を持たせたものでもいいけれども、おかしなことをやってはいけませんというルールを法できちんとつくっておいて初めて、こうしたおかしなことがあったら、違法ですからといって処罰できるし、処分できるし、金返せと言える。そういったことをやらないで、行政の基準とか指導とかということで全部やろうという発想でいるからこういうことになるし、総務庁行政監察局も行政の内部である以上、その感覚の中で、しかも行政府ですから法をつくれないのですから、法をつくれというのはよほどのことがないと言えないわけですよ。
+　ところが、今の日本の行政で不祥事がたくさん起こるのは、まさにルールがない。ルールは内部でつくっていますという。行政指導とか基準とかいろいろあっても、法としてのルールがないところにいろいろとごちゃごちゃと癒着が生まれ、利権が生まれているので、法をつくっていって、幅がある法でもいいから法をつくっていって、そこの中でおかしなことを許しませんよということをやっていかなければならない。
+　だから、監察をして、このルールはおかしい、いいかげんなことが今回のようにできるようなルールですよということは、国会に対しておかしいから法をつくれという形で監察をしなければ行政監察の効果は少なくとも今の時代としては上がらないので、私たちは、行政監察局の人員を半分ぐらいちょっともらってきて国会の方で、法をつくれ、こういう法をつくらないとこういうおかしなことができるよと言う組織をつくらなければならないということで、行政監視院というのを国会につくれということを言っている。
+　こういったことをやらないと、いろいろなところで、これは特養だけじゃなくて、同じことはいろいろなところでできるわけですよ。同じように、どこかの課長が一人の判こを押せば何か公益法人がつくれて、そこにはだれかの課長の判こ一つで補助金が流れて、そこから先にその補助金がどう使われているのか、補助金を流した方はチェックもできないし、基準もないから、後から金返せとを言えないような補助金の流れ方は、ここだけじゃなくて、厚生省だけでも山ほどあるはずです。厚生省だけじゃなくて、すべての役所だったら山ほどあるわけです。たまたま贈収賄をして懐に入れたから茶谷容疑者は問題になったけれども、似たようなことを、贈収賄にならない程度の接待で仲よくなっていたなんということで、あらゆるところでやっているから政治と行政に対
+する不信があるわけです。
+　そこのルールをきちんとつくっていかなければならないという認識を持たないといけないと思うのですが、国務大臣としての小泉大臣、いかがでしょう。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>138</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1996-11-27</date>
+                    <speechOrder>165</speechOrder>
+                    <speaker>枝野幸男</speaker>
+                    <speech>○枝野委員　はい、ありがとうございました。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/138/0223/13811270223002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>

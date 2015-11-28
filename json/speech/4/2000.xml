@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>25</numberOfRecords>
+    <numberOfReturn>25</numberOfReturn>
+    <startRecord>1</startRecord>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>150</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>4号</issue>
+                    <date>2000-11-02</date>
+                    <speechOrder>34</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍内閣官房副長官　ただいま委員が御指摘をされましたように、高度情報通信ネットワーク社会においては、情報の自由な流通を確保するということが極めて大切なことであり、また基本であるわけでありますが、それと同時に、今おっしゃったように、地域、また国境を越えてそうしたテロが行われるという可能性も極めて高くなってくるわけであります。こうした認識のもとに、本法案におきましても、高度情報通信ネットワーク社会を定義づけるに当たりまして、「自由かつ安全」、このように規定をしておりますし、施策の基本方針において、ネットワークの安全性や信頼性の確保について規定をしているわけであります。
+　そうした点を踏まえまして、私どもが今委員御指摘のサイバーテロに対して何をやっているかと言えば、これは、情報セキュリティーについて、年内を目途に政府内でサイバーテロ対策にかかわる特別行動計画を策定することとしているほか、各省庁において、情報漏えい、不正アクセス等の脅威から政府の情報システムを防護するための情報セキュリティーポリシーの策定に取り組んでいるところでございます。また、既に施行されております不正アクセス行為の禁止等に関する法律等に基づきまして厳正に対処をしていきたい、こう考えているわけでございます。
+　今後ともこうした情報セキュリティー対策、つまり、ＩＴ社会における安全保障についてしっかりと取り組んでいきたい、こう考えております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/150/0002/15011020002004a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/150/0002/15011020002004.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>150</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>2000-10-31</date>
+                    <speechOrder>111</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍内閣官房副長官　ただいま大野委員の御指摘のように、情報通信社会におきましても安全保障という認識は極めて重要である、このように私も考えております。
+　私は、安全でそして信頼の置ける高度情報通信ネットワーク社会を構築していく上で、情報セキュリティーの確保ということが大変大切な基盤である、このように認識をしております。
+　その認識に立ちまして、ＩＴ戦略本部におきまして情報セキュリティー部会を、そしてまた内閣官房には情報セキュリティー対策推進室を整備いたしまして、政府各省庁の情報セキュリティーポリシーのガイドラインを策定するなど、今官民一体となって対策を推進しているわけでございます。
+　そして、具体的には、年内をめどにサイバーテロ対策にかかわる特別行動計画を策定することとしているほか、政府各省庁では、情報漏えい、不正アクセス等の脅威から政府の情報システムを防護するための情報セキュリティーポリシーの策定に取り組んでいるところである、このように承知をしているわけでありますが、今後ともこの情報セキュリティー対策をさらに強化していきたい、このように考えているところでございます。
+　またさらに、委員御指摘の個人情報の保護につきましては、去る十月十一日に、情報通信技術戦略本部のもとに開催される個人情報保護法制化専門委員会において、個人情報保護基本法制に関する大綱が取りまとめられ、これを受けて、十三日には同本部を開催して、政府の対応方針を決定いたしたところでございます。政府といたしましては、本部決定のとおり、次期通常国会への提出を目指しまして、個人情報保護に関する基本法制の立案作業を進めていきたい、このように考えております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/150/0002/15010310002003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/150/0002/15010310002003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>150</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>災害対策特別委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>2000-10-05</date>
+                    <speechOrder>83</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍内閣官房副長官　今回の水害に対する対応を含めて、決意と御説明をさせていただきたいと思います。
+　今回、内閣官房におきましては、九月十一日十九時に建設省におきまして警戒態勢がとられたことから、建設省を中心として情報収集、各省庁との連絡を密にいたしまして、終夜警戒態勢をとってまいりました。
+　さらに、翌日に入りまして、庄内川の水位が危険となったという情報がございました。そしてさらには、四時ごろに新川決壊の情報がもたらされたわけでございまして、それを受けまして、五時ごろには内閣危機管理監を初めとする内閣官房及び関係省庁の職員を官邸に緊急参集をさせ、事態の把握等を行ってきたわけでございます。そしてさらには、建設省を中心として、ポンプ車を全国から結集をさせまして排水作業を行うなど、被害の拡大防止に最大限の努力を傾注してきたわけでございます。
+　先ほど来委員が御指摘のように、こうした危機管理に際しましては、初動体制をしっかりととっていくということが大変重要でございます。今後とも危機管理体制をさらに強化充実いたしまして、国民の皆様に安心をしていただけるよう万全を期していきたい、このように思っておる次第でございます。
+　どうぞよろしくお願いします。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/150/0022/15010050022002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/150/0022/15010050022002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>149</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>総務委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2000-08-09</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○内閣官房副長官（安倍晋三君）　第二次森内閣の内閣官房副長官を命ぜられました安倍晋三でございます。
+　小川委員長を初め諸先生方の御指導、御鞭撻を賜りながら、上野副長官とともに中川官房長官を補佐してまいりたいと存じますので、どうぞよろしくお願い申し上げます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/149/0002/14908090002001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/149/0002/14908090002001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>148</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2000-07-06</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍内閣官房副長官　このたび内閣官房副長官を命ぜられました安倍晋三でございます。
+　佐藤委員長を初め諸先生の御指導、御鞭撻を賜りながら、中川長官を補佐していきたいと存じますので、どうぞよろしくお願い申し上げます。（拍手）
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/148/0002/14807060002001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/148/0002/14807060002001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>国民福祉委員会</nameOfMeeting>
+                    <issue>26号</issue>
+                    <date>2000-05-30</date>
+                    <speechOrder>4</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○衆議院議員（安倍晋三君）　ただいま議題となりました老人医療受給対象者に対する臨時老人薬剤費特別給付金の支給に関する法律案について、その提案理由及び内容を御説明申し上げます。
+　今国会に政府より提出されている健康保険法等の一部を改正する法律案においては、老人医療について、薬剤一部負担金を廃止し、月額上限を設けた上で定率一割負担制を導入することとされ、その施行日は七月一日とされております。あわせて、国が老人の薬剤一部負担金を肩がわりする臨時特例措置について、本年度予算においては六月中まで実施するための経費が計上されているところであります。しかしながら、今国会の残された審議日程を踏まえますと、健康保険法等の一部を改正する法律案の今国会会期中の成立は極めて困難であると言わざるを得ない状況にあります。
+　このため、薬剤一部負担金を含む老人医療の一部負担金の見直しまでの間、臨時特例措置を引き続き実施するため、本法律案において、国は老人が医療機関等に支払うべき薬剤一部負担金相当額を臨時老人薬剤費特別給付金として老人に支給するための措置を講ずることとし、本年七月一日より実施することとしております。
+　以上が、本案の提案理由及び内容であります。
+　何とぞ、御審議の上、速やかに御可決あらんことをお願い申し上げます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>国民福祉委員会</nameOfMeeting>
+                    <issue>26号</issue>
+                    <date>2000-05-30</date>
+                    <speechOrder>17</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○衆議院議員（安倍晋三君）　一九九八年の予算措置でございますが、当時自民党でいろんな議論がございました。私も、今は社会部会長を務めておりますが当時は副部会長でございますので、最後の決定の瞬間ということについては立ち会っていないわけでございますが、議論から推測をいたしますと、この薬剤の一部負担につきましては、これはもう老人、若人両方合わせまして、医療現場におきましても、徴収するに際して大変負荷が多いという意見もございました。またさらには、先ほど今井委員が御指摘のとおり、二重負担ではないかという指摘もありました。我が党の中でもこれは強い意見としてあったわけでございます。
+　そういう中にありまして、大変経済の状況も悪化している中で、やはり医療機関にかかる機会の多いお年寄り、またさらには経済状況が厳しい中において稼得収入のないお年寄りに着目をして、お年寄りの分ということで予算措置でやっていこうということを決定したわけであります。しかし、もちろんその後には、最初に申し上げましたような理由から抜本的な改革を行っていくべきではないかということで、今般の健保法の改正の中において老人、お年寄りにつきましては今までの定額から一割を負担していただくと。これは私はかなり大きな改革であったんだろう、こういうふうに思います。一割を負担していただくということの中で、当然負担増になっていくという面もあるわけでありますから、最初に申し上げましたいろんな問題のあるこの薬剤の一部負担については、廃止をするという決定がこの連続の過程の中でなされたわけでございました。
+　しかしながら、この健保法が残念ながら成立をしないという中において、昨年の七月からことしの六月まで、そういう経緯の中で予算措置をしている。そして、本来であれば七月から薬剤の一部負担が廃止になるという予定でありました。一割負担になるということと同時にそうなる予定でありましたが、残念ながら成立をしないわけでございますので、端境期ができてしまってまた復活をするということは、大変また医療現場を混乱させることにもなるわけでございますし、まだ残念ながら経済情勢も本格的に好転をしていないわけでございます。
+　その中で、大変やむを得ない措置といたしまして、これは予備費の中からこの臨時特例措置を継続するための法的な措置を行わなければいけないということでございまして、私どもそういう判断をしたわけでございますが、これは私は、当然政治家としてとるべき責任ある決定であったと、このように確信をいたしております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>国民福祉委員会</nameOfMeeting>
+                    <issue>26号</issue>
+                    <date>2000-05-30</date>
+                    <speechOrder>27</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○衆議院議員（安倍晋三君）　私は党の社会部会長は務めておりますが、国会運営につきましては、党におきましては幹事長また国対の中で、今十本ある法案、できれば全部通過せしむべくスケジュールを考えるわけでございますが、その中でおのずと優先順位もあるわけでございまして、どの法案も極めて重要法案には変わりはないわけでございます。
+　特に、この健保法につきましては予算関連法案であるわけでございますから、私といたしましては、その中で当然抜本的な改革も含まれているわけでありますからもっと早く審議をしていただきたかったと、このように思っているわけでございます。ただ他方、社会福祉事業法の改正等も当然重要であり、またその中で審議時間等の関連においてもむしろそれを先にやった方がスムーズにこの法案は成立をして、うまくいけば健保法もいくのではないか、私はそういう判断があったのではないかと、このように思っております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>国民福祉委員会</nameOfMeeting>
+                    <issue>26号</issue>
+                    <date>2000-05-30</date>
+                    <speechOrder>72</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○衆議院議員（安倍晋三君）　この通常国会は六月の中旬までまず行われるという会期があるわけでございましたから、その中でスケジュールを立てるわけでございますが、私はその立場にはいないわけでありますが、しかしながら恐らく我が党の判断といたしましてはできればこの十本を全部通したいということであったんだろうと思います。
+　ただ、その中で、例えば年金法案につきましてもかなり我々が予想をしていたよりは多くの時間がかかってしまったということでございます。その中で、できる限り多くの法律を通したいという中にあってこういう順位になったのではないか、こういうふうに思う次第でございます。
+　この健保法というか、例えば衆議院で最後に審議を行いましたのは社会福祉事業法でございますが、この社会福祉事業法につきましてはほとんどの政党に賛成をしていただける、速やかに成立が見込まれるということでございましたので、この社会福祉事業法につきまして速やかに審議をいただいたわけでございますが、その後この健保法ということも考えていたようでございますが、しかしながら解散という運びになってこんな結果になってしまったということなんだろうと思います。
+　その中で、予備費においてこの継続を行おうということになったわけでございますが、そのための立法が必要であるということでありましたので、当然これは政治家としての責任を果たすべく、ちゃんと法的措置をするべきであろうという考えのもとに提出をさせていただいたということであります。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>国民福祉委員会</nameOfMeeting>
+                    <issue>26号</issue>
+                    <date>2000-05-30</date>
+                    <speechOrder>84</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○衆議院議員（安倍晋三君）　抜本改革についてどう考えるかという御質問だと思います。
+　我が党といたしましては、もう既に医療の抜本改革についての基本的な考え方を、ここに今大臣として座っておられます丹羽先生が当時医療基本問題調査会の会長でございましたから、丹羽会長のもとでまとめさせていただいたわけでございます。その中で私ども既に一歩一歩着実に歩みを進めている、私はこのように考えております。
+　例えば薬価差の問題でございますが、Ｒ幅につきましては、もう既に昨年五から二に、二というのはスムーズな流通体制を維持するためにはやむを得ない幅であると私は考えております。事実上、Ｒ幅はそういう意味ではゼロに近い最低限の段階まで押し下げたと、このように考えておりますので、薬価差問題につきましては一定の大きな進歩があって、議論に決着をつけさせたと、私はこのように考えております。
+　また、負担の問題におきましては、このたび提出をさせていただきました健保法におきましては、お年寄りの方々に一割の御負担をいただく、各世代間の負担の公平性をどう考えるべきかという観点から一割の負担をしていただくということ、そういう決断をさせていただいて法律に盛ったわけでございます。
+　また、医療法の改正におきましては、医療提供体制の中におきまして、今までの看護婦さんの配置基準を四対一から三対一にしたわけでございます。
+　そういう改正を行ってまいりまして、薬剤メーカーあるいは医師会とも、当然現場の事情をよく知っておられる方々であって、できればその方々にも納得をしていただくということがむしろこうした改正をスムーズに行うことになる、このような確信のもとに私どもはそうした団体とも交渉を重ねてきたわけでございますが、その中で、例えば三対一基準につきましては相当激しいやりとりの中で納得をしていただいているわけでございます。
+　また、薬価差、Ｒ幅の問題におきましても、製薬メーカーが強く反対する中、私どもは納得をしていただくために大変な苦労をしたわけでございますが、そういう形になったわけでございます。
+　また、昨年、診療報酬の改定におきましても我が党と医師会との交渉を行ったわけでございますが、その結果、例えば医師会の副会長は自民党との交渉の結果は惨敗であったというコメントを出したわけでございます。これは私どもが医師会の側に立ってそういう団体の利益を図ったことではないという証左ではないか、このように私は考えているわけでございまして、私どももそうした団体と交渉するときにも国民の視点というのは決して忘れていないつもりでございます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>国民福祉委員会</nameOfMeeting>
+                    <issue>26号</issue>
+                    <date>2000-05-30</date>
+                    <speechOrder>97</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○衆議院議員（安倍晋三君）　平成九年当時でございますが、この当時は橋本内閣時代でございまして、財政構造改革をやっていこうということでございました。この法案をつくった後、この財政構造改革法が通ったわけでございます。
+　その中にありまして、特にこの医療保険財政は非常に厳しい状況にありました。やはり医療保険制度というのは安定的、持続的なものでなければ国民の皆様に安心をしていただけないわけでございますから、そうした意味でこの医療保険財政を立て直し、また安定的なものにしなければいけないという観点から一部負担をしていただく。さらには、先ほど先生から御指摘がございましたように、多剤投与という傾向もございました。そういう中にあって、患者さんまた医療側にも双方にコスト意識を持っていただく。そういう観点からこの制度を導入したわけでございまして、私はこのことは当時も当然であろうと、このように考えていたわけでございます。
+　ただ、その後、経済の状況が大きく変わりまして、稼得収入のないお年寄りの方々にこのまま負担をしていただいていいのかどうかという議論があって、予算措置になったという次第でございます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>国民福祉委員会</nameOfMeeting>
+                    <issue>26号</issue>
+                    <date>2000-05-30</date>
+                    <speechOrder>106</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○衆議院議員（安倍晋三君）　平成九年に薬剤の一部負担を導入したときの経緯については御説明したわけでございますが、平成十一年に予算措置を行いまして、国が肩がわりをするという臨時特例的な措置を行ったわけでございますが、これは経済の状況が大きく変わったということがもちろん一点でございます。しかし、その前に、先般も申し上げましたように、医療現場がそこの徴収をするのに対して大変混乱をしているというのが一点、そしてまた、二重負担ではないかという指摘もあったというわけでございます。その中にありまして、経済情勢が厳しくなっていく中で収入のないお年寄りの皆様、特に医療機関にかかる機会が多いわけでございますから、そこに着目をいたしまして、国が肩がわりをするという決断をしたわけでございます。
+　また今、医師会との関係、御指摘をいただいたわけでございまして、確かに医師会の皆様には私ども支持をしていただいております。ただ、お医者様の数よりも圧倒的に患者さんの数の方が多いわけでございますし、国民の数の方が多いわけでございます。これはよく私ども新聞で申し上げまして一部から厳しい批判も浴びたわけでありますが、ただ、それは当然私ども常識として頭の中に入っておりまして、その上で、医療当事者としての意見ということで、私どももそういう意見には耳を傾けているということでございまして、私どもがこうした政策を決めるときに医師会の言いなりになっているということは全くないということは申し上げておきたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/147/0008/14705300008026.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>15号</issue>
+                    <date>2000-05-24</date>
+                    <speechOrder>4</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）議員　ただいま議題となりました老人医療受給対象者に対する臨時老人薬剤費特別給付金の支給に関する法律案につきまして、その提案の理由及び内容の概要を御説明申し上げます。
+　今国会に政府より提出されている健康保険法等の一部を改正する法律案においては、老人医療について、薬剤一部負担金を廃止し、月額上限を設けた上で定率一割負担制を導入することとされ、その施行日は七月一日とされております。あわせて、国が老人の薬剤一部負担金を肩がわりする臨時特例措置について、本年度予算においては六月中まで実施するための経費が計上されているところであります。しかしながら、今国会の残された審議日程を踏まえますと、健康保険法等の一部を改正する法律案の今国会会期中の成立は極めて困難であると言わざるを得ない状況にあります。
+　このため、薬剤一部負担金を含む老人医療の一部負担金の見直しまでの間、臨時特例措置を引き続き実施するため、本法律案において、国は老人が医療機関等に支払うべき薬剤一部負担金相当額を臨時薬剤特別給付金として老人に支給するための措置を講ずることとし、本年七月一日より実施することとしております。
+　以上が、この法律案の提案理由及びその内容の概要であります。
+　何とぞ、速やかに御可決あらんことをお願い申し上げます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705240008015a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705240008015.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>15号</issue>
+                    <date>2000-05-24</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）議員　ただいま大臣が御答弁されたとおりでございますが、医療保険制度の抜本改革につきましても、基本的には、議院内閣制でございますので、政府・与党一体となって責任に当たっていることである、このように思います。
+　党におきましては、具体的には、医療保険制度につきましては、医療基本問題調査会におきましてずっと議論を重ねてまいりました。昨年、とりあえず抜本改革についての成案を見たところでございまして、その上で、社会部会におきましてそれを党として承認したわけでございます。しかし、その間におきましても、政府と緊密な連絡を図りながら一体となって改革を進めているところでございます。そしてまた、さらなる改革に向けて、党と政府一体となって次のステップに向けて今鋭意検討中でございます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705240008015a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705240008015.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>15号</issue>
+                    <date>2000-05-24</date>
+                    <speechOrder>17</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）議員　健保法の改正につきましては、予算関連法案でございます。健保法改正につきましては、先ほど大臣が御答弁されましたように、老人の医療費を定額制から定率制に改める抜本的な改革を含んでおりますし、また、医療法の改正につきましても、看護婦の配置基準を四対一から三対一に変える等、医療提供体制の大きな改革を行うものでございます。
+　当然、私どもも、ぜひともこの国会において成立を図りたかったわけでございますが、一方、当委員会におきましては、年金法を初めたくさんの重要かつ審議時間を要する法案がメジロ押しの中で、残念ながら今日に至ってしまったということなんだろうと思います。
+　私どもとしては、来るべき国会におきまして、速やかにこの二法案につきまして御審議をいただき、そして成立させたい、このように思っております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705240008015a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705240008015.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>憲法調査会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>2000-05-11</date>
+                    <speechOrder>44</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員　本日は、衛藤晟一議員のかわりに出席をさせていただきました。初めて出席をさせていただきましたが、当調査会において、憲法についてこうして自由に議論ができるというのは大変すばらしいことであろうと私は思います。
+　特に、この制定過程、また憲法のいろいろな問題点が明らかになってきたわけでありますが、かつては全く憲法についてはこうした議論すらできなかったわけであります。たとえ王様が裸であっても、裸であるということを、王様の権威の前へひれ伏してしまって言うこともできなかったという状況に似ていたんではないか、やっと王様は裸であるということが言えるようになったんではないか、私はこのように今思っているところであります。
+　まず制定過程についてでありますが、この制定過程については、公布されたのが昭和二十一年、終戦の次の年でありますから、まさに全く占領下にある。終戦の次の年であれば、これはだれが考えたって、大きな強制の中でこの憲法の制定が行われたというのは本当に常識なんだろう、私はこういうふうに思っております。
+　その中で、しかし、結果としてできた憲法がよければいいじゃないかという議論があることも事実であります。しかし、私は、占領中にできた、そのことはハーグ条約等に違反しているということもありますが、それよりも、やはりこれは私たち日本人の精神に大きな影響を、この五十年間に結果として及ぼしているんではないか、このように思います。強制のもとで、ほとんどアメリカのニューディーラーと言われる人たちの手によってできた憲法を私たちが最高法として抱いているということが、日本人にとって、心理に大きな、精神に悪い影響を及ぼしているんだろう、私はこのように思います。
+　ですから、そういう意味で、今度こそ根本的に私たちは私たちの手で新しい憲法をつくっていくということが、私は極めて重要なんだろうと思います。
+　そしてまた、憲法の前文でございますが、この憲法の前文に、「平和を愛する諸国民の公正と信義に信頼して、われらの安全と生存を保持しようと決意した。」こういうふうにあるわけであります。では、この「平和を愛する諸国民」というのは一体だれなんだということでございますが、例えば、国連の常任理事国、Ｐ５の国、この五大国は、この戦後五十数年間、すべて戦争をしているわけであります。ですから、そういう意味においては、この前文は全く白々しい文であると言わざるを得ないんだろう、私はこういうふうに思うわけであります。
+　そしてまた、この前文によって、私どもの中に安全保障という観念がすっぽりと抜け落ちてしまっていると言わざるを得ないのではないか、こういうふうに思います。例えば外国為替及び外国貿易法につきましても、海外への送金をストップする、あるいは物をストップするための発動要件としては、国際的な要請あるいは国際的な取り決めによってはストップすることができるわけでありますが、我が国の安全保障上の理由によっては送金もとめられない、あるいは物を輸出することもやめられないというわけでありまして、外国には、大体これはほとんどの国に、その国の安全保障上の理由でストップできるということに発動要件としてなっているわけであります。
+　なぜこの発動要件の中に我が国の安全保障上の理由でということがないかといえば、これはまさに、前文にここで戻ってくるわけでありまして、平和を愛する諸国民に私たちの安全をゆだねているわけであります。つまり、我が国の安全保障上という理由はないんだと。まさにこれは、外国が決めていただいたことであればやるということにほかならないわけでありまして、我が国が何か起こさない限り、大きなそういう戦争ということにはならないんだということにほかならないわけであります。
+　ですから、そういう意味で、私は、まずこの前文から全面的に見直していく必要があるんだろう、こういうふうに思うわけであります。
+　それと、九条と個別的自衛権また集団的自衛権との関係について申し上げたいわけでありますが、国連憲章の中にも九条に似た条文がございます。しかし、それと同時に、集団的自衛権と個別的自衛権があるということが明記してあるわけであります。そしてまた、我が国が米国と結んでいる日米安全保障条約の前文にも、両国に個別的自衛権と集団的自衛権が存在することを確認しているわけであります。その中での安全保障条約であって、また国連の中での活動であるわけでありますから、この中で、集団的自衛権を、権利はあるけれども行使できないというのは、私は極めて無理があるんだろうと思います。
+　集団的自衛権というのは個別的自衛権と同じようにドロワナチュレル、つまり自然権なんですね。自然権というのは、むしろこれはもともとある権利でありますから、まさに憲法をつくる前からある権利というふうに私は考えるべきなのではないか、こういうふうに思います。
+　そもそも、この集団的自衛権は、権利としてはあるけれども行使できないというのは極めておかしな理論であって、かつてあった禁治産者、今はありませんけれども、禁治産者の場合は、財産の権利はあるけれども行使できないということでありますから、まさに我が国が禁治産者であるということを宣言するような極めて恥ずかしい政府見解ではないか、このように私は思いますので、これは九条のいかんにかかわらず、集団的自衛権は、権利はあるし行使もできるんだろう、このように私は思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0089/14705110089009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0089/14705110089009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>13号</issue>
+                    <date>2000-05-10</date>
+                    <speechOrder>147</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員　ただいま議題となりました社会福祉の増進のための社会福祉事業法等の一部を改正する等の法律案に対する修正案につきまして、自由民主党、公明党・改革クラブ及び保守党を代表いたしまして、その趣旨を御説明申し上げます。
+　趣旨の要旨は、議案において「平成十二年四月一日」となっている施行期日を、「公布の日」に改めることであります。
+　何とぞ委員各位の御賛同をお願いいたします。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705100008013a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14705100008013.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>2000-04-26</date>
+                    <speechOrder>90</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員長代理　瀬古由起子さん。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14704260008011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14704260008011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>7号</issue>
+                    <date>2000-04-14</date>
+                    <speechOrder>80</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員長代理　武山百合子さん。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14704140008007a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14704140008007.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>7号</issue>
+                    <date>2000-04-14</date>
+                    <speechOrder>96</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員長代理　次回は、来る十八日火曜日午前九時五十分理事会、午前十時委員会を開会することとし、本日は、これにて散会いたします。
+　　　　午後零時九分散会
+
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14704140008007a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14704140008007.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>本会議</nameOfMeeting>
+                    <issue>16号</issue>
+                    <date>2000-03-28</date>
+                    <speechOrder>7</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍晋三君　私は、自由民主党、公明党・改革クラブ、自由党を代表して、ただいま議題となっております国民年金法等の一部を改正する法律案等年金三法案に対して、賛成の意を表するものであります。（拍手）
+　新たな世紀の到来を控えて、本格的な少子高齢社会が目前に迫っている今日、国民の老後生活の柱である年金制度を将来にわたって安定した盤石なものとすることは、この時代に生きる我々に課せられた重大な使命であります。
+　これに対して、その見直しを図ることなく放置した場合、将来世代に過重な負担を課すことは一目瞭然であります。それにもかかわらず、給付の維持のみに固執して必要な改正を先送りすることは、責任ある政治家のとるべき態度ではありません。
+　政府案は、年金制度に対する国民の不安感を払拭するため、将来世代の負担を過重なものとしないよう、高齢化がピークを迎えるころにも、保険料を労使折半の合計で年収の二割程度、本人負担でいえば一割程度にとどめることとし、そのために、今後の給付総額の伸びを抑えるべく、給付水準、支給開始年齢などについて必要な改正を行うものであります。
+　ただし、これらの改革についても、急激な変化による国民の不安を起こさぬよう、給付の見直しに際しては、今回改正のために年金の額が従前より下がるようなことがないよう必要な経過措置を講じており、また、支給開始年齢の引き上げに当たっても、長い準備期間を置いて緩やかに行うこととしております。
+　このように、今回の改正案は、長期的な視点に立ち、今ある受給者にもきめ細かく配慮した妥当な案であり、その実現を図らなければならないと考えております。
+　さらに、政府案は、国民から改善要望の強い、学生が保険料を卒業後に出世払いできるようにするための保険料納付の特例、育児休業期間中の厚生年金保険料の事業主負担分免除を盛り込むなど、高く評価できるものであります。
+　また、年金積立金の自主運用に関しては、責任体制の明確化や情報公開を原則として、厚生大臣が、安全かつ確実を基本としつつ自主運用を行うこととしており、また、年金福祉事業団の解散等に関しても、年金加入者の立場から見れば妥当な措置であると考えられます。
+　これに対して、野党は、具体的な対案もなく、審議が尽くされていないといたずらに批判し、特に、前国会において実力行使により審議を停止させる行為が行われたことは、まことに残念でありました。（拍手）
+　しかしながら、前国会での審議を含め、当院においての審議時間は中央公聴会なども含め三十時間近くを数えており、これまでに必要かつ十分な質疑が行われたものと考えております。そもそも、年金制度の改革に当たっては、国民に率直に語りかけ、国のあるべき方向について国民の理解を得ていくことが必要であります。単なる成立の引き延ばしを画策する野党諸君の態度は、国民、とりわけ将来の世代に対して、無責任きわまるものと言わざるを得ません。
+　最後に、この法律案の成立に当たり、今回の年金改革が将来の我が国の国民生活全体の安心と安定に大きく寄与することを確信するとともに、その意義と役割について、国民の広い理解を得ていくよう政府が最大限の努力を払うことを要望し、私の討論を終わります。（拍手）
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0001/14703280001016a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0001/14703280001016.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>5号</issue>
+                    <date>2000-03-24</date>
+                    <speechOrder>213</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員長代理　児玉健次君。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703240008005a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703240008005.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>5号</issue>
+                    <date>2000-03-24</date>
+                    <speechOrder>264</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員　動議を提出いたします。
+　三案の質疑を終局されんことを望みます。（発言する者あり）
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703240008005a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703240008005.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>2000-03-14</date>
+                    <speechOrder>127</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員長代理　後ほど理事会で協議をしていただきたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703140008003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703140008003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>147</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>2000-03-14</date>
+                    <speechOrder>139</speechOrder>
+                    <speaker>安倍晋三</speaker>
+                    <speech>○安倍（晋）委員長代理　児玉健次君。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703140008003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/147/0008/14703140008003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>

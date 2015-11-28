@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>25</numberOfRecords>
+    <numberOfReturn>25</numberOfReturn>
+    <startRecord>1</startRecord>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>144</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>財政構造改革に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-12-02</date>
+                    <speechOrder>150</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員長代理　これにて西川君の質疑は終了いたしました。
+　次に、児玉健次君。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/144/0779/14412020779003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/144/0779/14412020779003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>4</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　いよいよ金融の大事な法案の審議入りがきょうからされました。特に、きょうは長銀問題を含めての集中審議ということでございますので、それに関連して質問させていただきます。
+　総理、大蔵大臣、今国民は、率直な疑問、率直な気持ちというものを、まず第一に次のように持っておるのじゃないかと思うんです。それは、住専処理以来、各般の金融問題に関する対策を講じてきました。そして、それにもかかわらず不良債権処理が長期化したこと、このことについて、与野党を乗り越えて政治家がどういう気持ちを持っておるのだろうか、こういうふうな気持ちを国民が持っているような気がします。
+　私は、人間というのは、過去から学んで、将来を見通して現実に対応していく。政治もやはり同じであろうと思います。そして、私自身、国会運営に携わることが非常に多うございまして、そういう経験からここ数年を若干振り返ってみたいと思うのです。
+　バブルと言われたのがちょうど海部内閣も末期でございましたが、私は官邸におりました。総理は、幹事長でおられました。そして、総量規制を行い、宮澤内閣に移りました。宮澤内閣、その当時大変重要な発言をされておられます。平成四年であったと思いますが、八月に、担保不動産の買い上げ会社構想について、必要なら公的資金を援助することについてやぶさかでない。私は、鋭い、バブルがはじけた後のなさなければならないイニシアチブであったと思うんです。
+　しかし当時、政治状況は、ＰＫＯの法案の処理と政治改革の処理ということで政治のエネルギーが使われておりました。私は、その当時、また官邸から国会運営に携わって、あの当時のことをよく思い出しております。その後、宮澤内閣から細川内閣になりましたときに、細川内閣は政治改革一本でありました。そして、金融問題に関する諸法案は、私の記憶では余りございません。そして、その後村山内閣になりまして、私は一時内閣の一員でございましたが、その後に住専処理という問題をやりました。ちょうどそのあたりから国民の間に、まさにバブルの後遺症の大きさ、重大さというものを認識し、そのことが大変なエネルギーとして政治の中に入ってまいりました。
+　あの住専処理のときに、三週間の野党の泊まり込み、そして初めて公的資金導入という問題が政治の話題になって、何とか法案と予算案を通したときに、我々自民党の議員は、このように国民に向かって説明したと思います。これを乗り切れば不良債権の処理が山を越す、金融システムの安定化のためにこれは必要なんだ、こう言って国民にも訴え、そして我々自身もその確信のもとであの難局を乗り切ったことを鮮明に覚えております。あの措置は私は正しかったと思います。そして、公的資金という問題をあれほどの政治エネルギーを使って処理した、そのことがその後の不良債権問題にいろんな形で影響したな、こんな思いを私自身は持っております。
+　その後、次々と各法案が出されてまいりました。特にことしの初めは、いわば安定化措置二法と称して、正月早々からこの金融問題を処理するための法律をつくりました。まあいろいろ申し上げません。そのような一連、ここ数年、そのときの政治状況、政治状況というものがあったのでありますが、いろんな形でそれぞれの国会で重要法案となって今日まで来て、今ここに長銀問題の処理と、そしてセーフティーネットを中心としたこの新規立法、議員立法、こういうものが提出されて、国民には、日本の政治は今まで何してきたんだろうかという率直な疑問というものがあるんだろうと思います。
+　私は、そういう意味で、一人の自民党の代議士として、時には内閣に、時には国会対策におって、今日まで結果として延びてきたこと、今日までここまでかかってきたこと、このことについて、確かにそのとおりですと、その疑問に対して反省も込めて申し上げなければならぬと私は思っておりますが、それと同時に、日本の金融は、一方、後ろの不良債権を処理しながら新しいビッグバンに対応するという、関係しながらも違った二つの側面を処理しなければならないという苦衷の中で諸施策をとってきたものだと思っております。
+　ですから、ある意味では、過去を振り返ったときの責任、例えば、宮澤総理の時代のあのイニシアチブを、与野党乗り越えて我々が政治の課題としてあそこに取り組めたらな、こんな反省が私の中にある。それはすべての政治家が、確かにＰＫＯも重要であったし政治改革も必要であったけれども、その当時の総理のあの発言をもっともっと我々が政治の大きなイシューとしてエネルギーを注ぎ込む必要性があったのかな、そんな反省、あるいは住専のときの思い、そんなことを踏まえながら、今この時期に、基本的なスタンスとして、我々が出している法案も含めて、与野党真剣にこの問題に対処しなければならない。
+　私どもも、寛容な姿勢と勇気ある決断を持って乗り越えたい、野党にこれから問いかけたいと思いますし、また、野党の皆さんもまさにそういう状況を踏まえて対応してほしい、こういう思いを持ちながら、今日までの金融にかかわるいろいろな経過を振り返って、総理並びに大蔵大臣のその御心境、また、国民に対する思いをぜひ冒頭におっしゃっていただきたいな、こう思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>7</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　今日までの中で、総理の思い、反省も含めての思い、大蔵大臣の豊富な経験からのお話がございました。
+　学ぶことはたくさんあったと思います。それは、できる限りの開示であり、公正さであり、そして責任追及ということだと思いますが、そのことはまた後に説明させていただきます。
+　いずれにしても、いろいろな御批判があったとしても、いろいろなそのときの施策を講じながら、致命的かつ危機的な日本全体の金融システムの破壊というところまでは行かせなかった。このことは、私は、一面、きちっと自己評価といいましょうか、そういうための努力の成果というのはあったと改めて申し上げるとともに、確信をしたいと思うのであります。
+　さて、そこで、長銀問題に移らせていただきます。時間が余りありませんので、単刀直入に質問を申し上げたいと思います。
+　結論的質問をします。
+　長銀に対して公的資金を注入して対応するのであれば、今後も破綻しそうな金融機関に対して長銀と同じような処理をすればいいじゃないか、そうしたら、今閣法及び議法として提出されている法律案は必要ないではないか、非常に国民のサイドに立った単刀率直な疑問がございます。長銀問題はいろいろな問題を含んでおりますが、基本論として、そこに一つ答えなければならぬ問題があるだろうと思います。そのことについてまずお答えをいただきたい、このように思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>9</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　そういたしますと、国民の皆さんに専門的な議論をいろいろ今お話をする。それを言葉をかえて言いますと、いわばある人間が非常に弱りつつある、弱りつつあるけれども、そこを何らかの手だてをして、そして元気をつけさせてやる。これはまあいわば破綻前の一つの処理、そのときに合併という手段もあるだろう。合併という手段が、当事者同士で努力して、そういう場合に、ある程度健全な体にしてやるために、その全体を守るためにそこは今のような処理をするというのが一つあって、どうしても、人間の体でいいますと、もう入院をして、そして手術をしたりなんかしなければならない、それを破綻と言っていいかどうかわかりませんが、破綻した後の処理。それも、その銀行そのものを救うのではなくて、そこにまつわるシステムと言っていいんでしょうか、それを守ることだ。そのために二つの対応があるんだ。まあ破綻前と破綻後。だから、今政府が出している案、また私どもが議員立法として出している案も破綻後の処理としてこれは必要なんだ、こういうふうな解釈だと思います。それでよろしいんでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　そういたしますと、例えば中堅銀行同士が合併したい、そしてその一方が非常に体力が弱っている、そういう場合にも、長銀に今対応しようとしているそういうスキームが当然当てはまると考えていいのだろうと思うのですが、その点はどうであるか。
+　逆に、大蔵大臣、よく今、大手銀行、つまりマネーセンターバンクの破綻にはとても今のスキームは役に立たないんだ、法的には解釈されても役に立たないんだ、だから長銀の問題をこのように処理したのではないかとか、あるいは、今新しく出ている法律が機能しないのじゃないか、こんな疑問があるわけです。そういうことについてひとつお答えをいただきたい、こう思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>13</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　破綻前の必要な措置と破綻後の必要な措置と両方相まって、もちろんそこにはいろいろな条件があります、法に照らしたいろいろな問題がありますが、それをもってして初めて、預金者、優良なる借り手、それから金融を取り囲むいろいろな経済的な信用の問題、そういうものを称してシステムと言うのでございましょうか、そのシステムを守るということのためには、今私どもが出している法律、内閣として出している法律もあわせて必要であるというお答えであったと思います。
+　さてそこで、いよいよ長銀の問題についてさらにお伺いしますが、総理が両行の合併構想の進捗状況を聞くために住友信託銀行の社長を呼ばれました。
+　合併そのものは両行の自主的判断であります。それがスタートであり、それが基本にならなければならないと思いますが、しかし、現在の経済状況あるいはまた国の経済危機管理という側面でございましょうか、そういう側面から、金融システムに対する御心配あるいは経済への影響、そういうことを思ってお呼びになられ、そして進捗状況をお伺いしたのだろうと思います。
+　これは個人的に思っておることでございますので、先ほど過去のいろいろな事例を見ました。あの北拓銀行が破綻したときに、もし今のようなセーフティーネットの法律があったらよかったのになと、実は個人的に非常に今思っておりますが、しかしあのときに、昨年の秋でございましたが、三洋証券、北拓、山一証券が続々と破綻していったときに、私は、本当に日本発の金融不安というものが起こりはしないか、国際市場が鋭くそこをねらっていろいろな動きをしている、アジアの問題、大変不安になりました。大変深刻であったと思います。やはりそういうことを、例えばセーフティーネットの問題でも、住専のときからずっといろいろ踏まえて、あるいはタイミング的に遅かったかもしれない、しかし必要だという一つの結論だと思います。そういういろいろな問題があって、総理が多分お呼びになったのだろうと思います。
+　そこで、その総理の御所見を伺う前に、監督庁にちょっとお伺いします。
+　長銀が今一体どの程度の金融規模であるか、多くの国民の皆さんが、長銀長銀という名前が出ますけれども、そのスケールというものがよくわからない。したがって、もし今の時点で貸出総額あるいは貸出件数、そういうもので国民の皆さんに長銀の大きさ、スケールをわかっていただくような、そういう御説明をちょっといただきたいものだ、こう思うのです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>15</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　十五兆、三万件というスケール、また後で数字は伺うとして、そういうセンターバンク、要するに大きな銀行、大き過ぎてつぶせないという言葉があるわけでありますが、それは妥当かどうかはちょっと別にいたしまして、大変大きな銀行であると国民の皆さんはわかったと思います。三万件の貸し出しというのは、多分ほとんど事業者でありましょう。そこにお勤めされている従業員の皆さんを考えますと、膨大な影響のある銀行であるということを私どもは予想できるわけであります。
+　長銀の場合のことを私は具体的に言うのではございません。先ほど来大蔵大臣もお話しされました、大規模銀行と称されるものが、これもまた具体的にある程度の数字を前提にして聞かなければならぬと思うのでありますけれども、金融の問題でありますからなかなか難しいのでありますが、そういう大きな長銀程度の銀行が、これを大規模銀行、こう言うと思うのですが、もしそのシステムが破壊されたときに一体どういう事態が予想されるのだろうか、どういうことが日本の経済に本当に影響してくるのだろうか。危機だ、大変だと言っても、やはり国民の皆さんに、あるいは私のような素人にも、そこはある程度きちっとした説明、予想されることというのは率直に言われた方がいい、こんな思いが私はあるのです。
+　したがいまして、大蔵大臣に金融に及ぼす影響、経企庁長官に経済に及ぼす影響、側面から率直な訴え、率直なお答えをいただきたいもの、このように思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>19</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　まさに経済の血液であり心臓である金融システムという問題、そういうふうなところにきっちりとお互いに目を向けてこの問題に対する考え方を持たなきゃならぬ、私はそういう感じを改めて強くしました。多分、総理のあのときの御判断、金融システム全体の危機的状況は絶対に起こさない、絶対に起こさない、この強い決意のもと、ここが総理の大変な決断であったろうと思います。
+　そういう中で、先般、住友信託さんにおいでをいただいてお話しされたんではないか、こう思います。総理に改めて、この長銀問題について、今後のこの問題を見守る、そしてあのときお呼びになる、そういう中における決意をお伺いしたいな、もしお話しできるところがあればそのときのお話をしていただきながら、長銀問題に対する総理の御決意をしっかりと内外に今ここで改めてお話ししていただきたい、私はこう思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>21</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　総理の今の思いというものをぜひ成就していただきたいと思っております。
+　しかし、昨日からきょう、株価が大変また下落しておりまして、マーケットはいろいろな要因を見ておると思いますが、我々の審議、そういうふうなものを見守っている。そして、できるだけこの問題について与野党でこの難局を乗り切ってほしい、そういうふうな問いがその姿にあるような気がします。
+　そこで、私は、時間がありませんが、以下、具体的に質問を申し上げます。
+　この長銀問題について、三つのルールが国民から問われている、こう思います。一つは透明性。一つはルール、公正さということでございましょう。そして責任問題。この三点に対して私どももしっかりと見守り、またこたえていかなければならぬ。私は、こたえられるだろうと思います。
+　そこで、まず透明性の問題について数点伺いますから、お答えをいただきたい。
+　まず第一点は、経営状況は一体どうなっておるか、ここだろうと思うのです。そういうふうなことを今金融監督庁が検査をされている。残念ながら、金融機関の持っている意味合いからして、どこまで出せるかという議論は一つあるにしても、できるだけ国民の前に長銀の実態を開示することが必要であろう、こう思います。そういう意味で、特に不良債権のあり方、こういうものを私どもが知った上で議論していかなければならぬことも当然でありますが、判断をしていかなければなりますまい。
+　今日までの国会での経過を伺いますと、監督庁のその結果につきまして、もし議院証言法に基づいて検査の結果を明らかにしてくれ、こういうことになったならば、長銀の不良債権の検査結果の中身を開示する、あるいは前向きに検討する、そういうふうな姿勢で臨みますか、臨みませんか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>23</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　検査結果が出た時点で、どの時点で国会がどのように対応するか、私どもも真剣にこの問題はこれから考えていきたいと思っております。
+　そこで監督庁、これは監督庁がお答えになれるかどうかわかりませんが、今言われている、もちろんあくまでも民間企業同士の合併でありますから、スタート、そしてイニシアチブはこの両行の問題であろうと基本的には思います。しかし、私どもとして、日本全体の金融システムということを考えた場合に、大変な大きな経済危機管理の問題でもあるという認識を持っておるわけですから、いろいろな議論をしている。おおよそ今の時点でその合併構想の実現というものがこんなスケジュールになっていくのではないだろうか、国民の皆様方に、あるいは我々に、例えば金融監督庁が検査を終わりました、終わった結果こうなって、そしてそこで申請が行われてこうなっていくだろう、こういうふうな具体的なスケジュール、今予想される、また言えるスケジュールというものを教えていただければありがたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>25</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　時間がありませんので、項目的に数点、ぽんぽんぽんと質問をいたします。
+　三月末の時点で長銀の公表不良債権がございました。しかし、先般、自己査定の結果が出ました。第二分類債権では二兆三千七百九十六億という数字が新聞に出ました。公表不良債権と第二分類債権の関係など、この数字の関係というものをどのように解釈したらいいかというのが一点。
+　結論として、もちろん九月期の中間決算というものを見なきゃわかりませんが最大の問題は、債務超過に陥るのではないかという、そういうふうな見方あるいは批評をする方がおります。そのことに対しての現時点での監督庁の見通し。
+　したがって、いわゆる今度の措置の、法に照らしてということを私言いましたが、先般の二法の、いわば金融機能の安定化のための緊急措置に関する法律における十三兆円、これを利用する場合のいろいろな要件がございます。そのときの要件の一つとして、長銀は同法に言われる健全な銀行と言えるのか、長銀からもし公的資金の注入申請があった場合に、法のどの条文に基づいて注入を行うことができるのか、そしてその場合に株主の責任を明確にするべきではないかこういう具体的な質問に対してお答えをいただきたい、こう思っております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>28</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　時間がありませんので、あと一、二点で終わります。
+　要するに、法的ルールに基づいてこの問題をしっかりと処理をしていただきたい、これは当然のことでありますが、大変重要なことだ。そういうことで、あえてそういうことがあった場合のことをいろいろ伺いました。
+　もう一つ、国民の皆さんに、率直な疑問を持っている人がいるのです。それは、公的資金を導入するというのはくれてやることかという質問をよく受けるのです。先ほど宮澤大蔵大臣もお答えをされました。
+　そこで、国民の皆さんに、公的資金を導入する、その公的資金の導入というのはこういうことですよということをしっかりと、技術的でありますが大事な点でございますので、御説明いただきたい。これはどこになるのでございましょうか。まるで国民は税金をくれてやるというふうに受け取っておられる方がある。ここのところをきっちりと御説明いただきたい、こう思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>30</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　それじゃ国民がわからないのですよ。本当は時間があればもう少しわかりやすく、つまり、国民は、税金を全部投入するのかという、そういう疑問を持っているのです。そういう説明をするからまたわからなくなるというふうに言われるので、もう一回お答えをいただいて、これで終わりますが、最後に、提出者保岡先生にお伺いします。
+　今いろいろなことをお話しされました。保岡提出者は、かつてまさに政治改革にもお取り組みになり、金融問題にも今一生懸命取り組んでおります。自民党のこの問題の政策責任者として、過去の経緯を踏まえながら、今度の長銀問題あるいは内閣が出された提出案件、これらについて所見を伺いたい、こう思います。
+　つまり、過去のことも振り返りながら、何としても自民党としては、これはもうある意味では最後の金融システムの安定のためにしっかりやらなきゃいかぬことだと私は思っておりますし、そういう意味で、野党とのこれからの話し合いというものも保岡提出者が大いにしなきゃならぬ。その辺の心構えを踏まえて最後にお答えをいただきたいのですが、大蔵省、さっきの答弁では国民はわかりませんので、もう一回ちゃんと答弁しなさい。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>金融安定化に関する特別委員会</nameOfMeeting>
+                    <issue>3号</issue>
+                    <date>1998-08-27</date>
+                    <speechOrder>34</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　透明性、ルールの厳守、それに責任論、私どもは、長銀に対するあり方についての責任問題もきっちりと議論しなきゃならぬと思います。
+　この問題については、山本委員から質問をさせていただきます。
+　ありがとうございました。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0797/14308270797003.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>両院</nameOfHouse>
+                    <nameOfMeeting>内閣総理大臣の指名両院協議会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>1998-07-30</date>
+                    <speechOrder>5</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島理森君　衆議院といたしましては、自由民主党総裁小渕恵三君を投票総数四百九十七票中二百六十八票という圧倒的多数で指名いたしました。
+　小渕恵三君は、豊かな経験と卓越した調整力と決断力を兼ね備えており、十分な総合力を発揮して、現下のこの難局を乗り切り、日本経済を再生させることができる人物と確信しているところでございます。
+　両院協議会といたしましては、衆議院の議決どおり意見の一致を見ますよう御賛同いただきたいと存じます。
+　非常に簡にして明でございますが、以上をもちまして趣旨の説明にさせていただきます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/ryoin/143/0900/14307300900001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/ryoin/143/0900/14307300900001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣総理大臣の指名両院協議会協議委員議長副議長互選会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>1998-07-30</date>
+                    <speechOrder>9</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島副議長　ただいま皆様の御推挙によりまして、副議長に選任されました。
+　よろしくお願いします。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0800/14307300800001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0800/14307300800001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>37号</issue>
+                    <date>1998-05-11</date>
+                    <speechOrder>2</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　動議を提出いたします。
+　明十二日の本会議において、財政構造改革の推進に関する特別措置法の一部を改正する法律案、平成十年分所得税の特別減税のための臨時措置法及び租税特別措置法の一部を改正する法律案、地方税法及び地方財政法の一部を改正する法律案、地方交付税法等の一部を改正する法律案及び中小企業信用保険法等の一部を改正する法律案を審査するため委員四十人よりなる緊急経済対策に関する特別委員会を設置されることを望みます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14205110440037a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14205110440037.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>37号</issue>
+                    <date>1998-05-11</date>
+                    <speechOrder>14</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　動議を提出いたします。
+　明十二日の本会議において、大蔵大臣の財政演説及び内閣提出、財政構造改革の推進に関する特別措置法の一部を改正する法律案、平成十年分所得税の特別減税のための臨時措置法及び租税特別措置法の一部を改正する法律案、地方税法及び地方財政法の一部を改正する法律案、地方交付税法等の一部を改正する法律案及び中小企業信用保険法等の一部を改正する法律案の各法律案の趣旨説明並びにこれに対する質疑を行い、質疑者の数は、自由民主党一人、民主党二人、平和・改革一人、自由党一人、日本共産党一人とされることを望みます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14205110440037a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14205110440037.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>32号</issue>
+                    <date>1998-04-24</date>
+                    <speechOrder>7</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　動議を提出いたします。
+　第百四十回国会、本院提出、参議院送付、スポーツ振興投票の実施等に関する法律案、日本体育・学校健康センター法の一部を改正する法律案及びスポーツ振興法の一部を改正する法律案の各法律案は、いずれも本会議において趣旨説明を聴取しないこととし、議長において委員会に付託されることを望みます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14204240440032a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14204240440032.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>本会議</nameOfMeeting>
+                    <issue>29号</issue>
+                    <date>1998-04-14</date>
+                    <speechOrder>29</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島理森君　ただいま議題となりました衆議院事務局職員定員規程の一部を改正する規程案並びに衆議院法制局職員定員規程の一部を改正する規程案につきまして、提案の趣旨を御説明申し上げます。
+　まず、衆議院事務局職員定員規程の一部を改正する規程案でありますが、これは、調査局を設置するなど調査機能及び行政監視機能の強化のため、本年四月から事務局職員の定員を十人ふやし、一千七百二十六人とするものであります。
+　次に、衆議院法制局職員定員規程の一部を改正する規程案でありますが、これは、法制企画調整部を設置するなど立案機能及び行政監視機能の強化のため、本年四月から法制局職員の定員を二人ふやし、七十四人とするものであります。
+　以上両案は、本日、議院運営委員会において起草し、提出したものであります。
+　何とぞ御賛同くださるようお願い申し上げます。（拍手）
+　　　　―――――――――――――
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0001/14204140001029a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0001/14204140001029.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>17号</issue>
+                    <date>1998-03-13</date>
+                    <speechOrder>5</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　動議を提出いたします。
+　太田誠一君外七名提出の株式の消却の手続に関する商法の特例に関する法律の一部を改正する法律案及び大原一三君外五名提出の土地の再評価に関する法律案の両法律案は、いずれも本会議において趣旨説明を聴取しないこととし、議長において委員会に付託されることを望みます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14203130440017a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14203130440017.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>14号</issue>
+                    <date>1998-03-04</date>
+                    <speechOrder>2</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　議院運営委員会といたしましては、議長から諮問のありました予算委員会からの公聴会開会承認要求について、承認すべきものと決定されるようお願いいたします。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14203040440014a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14203040440014.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>13号</issue>
+                    <date>1998-02-19</date>
+                    <speechOrder>2</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　新井将敬君逮捕許諾請求に対しまして、自由民主党の態度を表明させていただきたいと思います。
+　我が党は、新井将敬君の逮捕の許諾につきまして、応ずる考え方であります。
+　本件は、憲法第五十条に定められた国会議員の身分に関する問題であります。したがって、慎重審議の上、冷静沈着に判断し、態度を決定した次第であります。
+　憲法第五十条及び国会法第三十三条は、国会開会中における不逮捕の特権を国会議員に与えているものであります。
+　この趣旨は、第一に、議院内閣制のもとで、検察を初めとする政府権力による逮捕権の乱用から議員の身柄の自由を守り、議員の活動が不当に阻害されないよう保護することであります。第二に、当該議員の身柄拘束が国会審議に具体的に影響を及ぼさないようにしようとすることにあります。
+　この両者は不可分のことであり、これらを総合的に判断いたしますと、逮捕の正当性、逮捕の必要性、それに国会の会期終了を待ち得ない緊急性などが認められなければならないということであります。
+　しかし、この精神は、決して犯罪容疑者を保護するものではありません。
+　既に本件につきましては、令状裁判所によって逮捕状発付を妥当とする判断がなされておりますけれども、当委員会におきましても、さきに述べた二つの観点から、法務当局に種々の質疑をするとともに、新井将敬君からも弁明を聴取いたしましたが、その弁明にもかかわらず、証券取引法違反の疑いを明確に晴らすに足るものがあるとは判断できませんでした。
+　大蔵省並びに多数の金融機関を巻き込んでいる一連のいわゆる金融腐敗事件は、深刻な状況にある我が国経済を立て直すためにも、まずもって早急に整理する必要がある問題の一つであります。
+　両者を慎重に判断した上、私どもは、新井将敬君の身柄拘束により選挙を通じて託された権利が一時的に履行できなくなるとしても、この際、司法当局の要求に応じ、一日も早い真相解明のため、事実関係を明らかにすべきだとの結論に至りました。
+　したがって、その他万般の事情を勘案考慮いたしましても、許諾請求に応じることが妥当と考えた次第であります。
+　以上により、自由民主党は、新井君の逮捕許諾を認めるものであります。
+　政府におきましては、憲法第五十条の精神を真摯に受けとめ、国民に真実が明らかになるよう努力されることを期待し、我が党の態度表明といたします。
+　以上です。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14202190440013a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14202190440013.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>2号</issue>
+                    <date>1998-01-13</date>
+                    <speechOrder>6</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　平成十年度の衆議院歳出予算の要求について御説明申し上げます。
+　平成十年度の本院予定経費要求額は、六百八十八億九千九百万円余でありまして、これを前年度予算額と比較いたしますと、五億五千万円余の減少となっております。
+　次に、その概略を御説明申し上げますと、第一は、国会の運営に必要な経費でありまして、六百四十九億四千万円余を計上いたしております。
+　この経費は、議員関係の諸経費、職員の人件費並びに事務局及び法制局の事務を処理するために必要な経費でありまして、前年度に比し一億四千八百万円余の減少となっております。これは、行政監視機能の強化のため、事務局に調査局を設置し法制局に法制企画調整部を設置するために必要な職員の増員等の措置をしているものの、職員の退職手当等の人件費及び憲法施行五十周年記念行事経費等の当然減によるものであります。
+　なお、国会審議テレビ中継の国民向け放送については、調査・検討経費を計上いたしております。
+　第二は、本院の施設整備に必要な経費といたしまして、三十九億五千二百万円余を計上いたしております。
+　この主なものは、国会参観者施設を兼ね備えた国会審議テレビ中継施設の新築費、立法情報ネットワーク整備費及び本館等庁舎の諸整備に要する経費並びに国会周辺等整備に必要な土地購入費でございます。
+　第三は、国会予備金に必要な経費といたしまして、前年度同額の七百万円を計上いたしております。
+　以上のとおりでありますので、よろしく御審議をお願いいたします。
+　　　　―――――――――――――
+　平成十年度衆議院予定経費要求書
+　　　　〔本号末尾に掲載〕
+　　　　―――――――――――――
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14201130440002a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14201130440002.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>1998-01-12</date>
+                    <speechOrder>33</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　ただいまの東中委員のお話でございますが、私どもも政府に対してはへ国会法に基づいた基本に基づいてすべきである、そのように留意してやりなさい、こう申し伝えておりますので、各党各会派の御了解を心からお願いを申し上げたい、こう思っております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14201120440001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0440/14201120440001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>
