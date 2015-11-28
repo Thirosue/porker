@@ -3,13 +3,43 @@
 <title>国会議員ポーカー</title>
     <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
     <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" type="text/css" href="modal.css">
 </head>
 <body>
     
     <header>
         <h3>手札</h3>
     </header>
-    
+
+    <button data-target="modal1" data-left='50' data-top='50' class="modal-open">手札選択</button>
+
+    <div id="modal1" class="modal-content">
+        <h4>条件を指定してください</h4>
+        <dl>
+            <dt>政党</dt>
+            <dd>
+                <select id="party">
+                    <option value="">選択してください</option>
+                    <option value="自民">自民</option>
+                    <option value="民主">民主</option>
+                    <option value="維新">維新</option>
+                    <option value="共産">共産</option>
+                    <option value="無">無</option>
+                </select>
+            </dd>
+            <dt>議員名</dt>
+            <dd><input id="name" type="search" name="name"></dd>
+        </dl>
+        <button class='search'>検索</button>
+        <hr>
+
+        <div>
+            <ul id="search-list">
+            </ul>
+        </div>
+        <p><a class="modal-close">閉じる</a></p>
+    </div>
+
     <div id="up_frame">
         <div id="up_image">
             <img src="images/main_bg.jpg">
@@ -33,19 +63,15 @@
     <div>
     
     <footer></footer>
-
-        
-        
-        
-        
         <ul id="list">
         </ul>
     </div>
     
     <br>
-    
+
 </body>
 <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
 <script src="js/index.js"></script>
-<script src="js/getSpeakCount.js"></script>
+<script src="js/modal.js"></script>
+<script type="text/javascript" src="chrome-extension://aadgmnobpdmgmigaicncghmmoeflnamj/ng-inspector.js"></script>
 </html>

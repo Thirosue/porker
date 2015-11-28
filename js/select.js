@@ -46,33 +46,18 @@ $(document).ready(function(){
                 "<li>" +
                 "<p>"+ val.name +"（"+ val.party +"）</p>" +
                 "<img width='50' src='public/" + val.portrait_image + "'>" +
-                "<button data-id='" + index + "' class='card-select'>選択</button>" +
+                "<button data-id='" + index + "' class='hoge'>選択</button>" +
                 "</li>"
             );
         });
+
+        modalResize();
     });
 
-    function getList(party,name) {
-        var target = new Array();
+    $(".hoge").click(function () {
+        console.log('aaa');
+        console.log($(this).data('id'));
+    });
 
-        $.each(cards,function(index,val){
-            if(0 === party.length && 0 !== name.length) {
-                if(val.name.indexOf(name) !== -1) {
-                    target.push(cards[index]);
-                }
-            }
-            if(0 !== party.length && 0 === name.length) {
-                if(party==val.party) {
-                    target.push(cards[index]);
-                }
-            }
-            if(0 !== party.length && 0 !== name.length) {
-                if(party==val.party && val.name.indexOf(name) !== -1) {
-                    target.push(cards[index]);
-                }
-            }
-        });
 
-        return target;
-    }
 });
