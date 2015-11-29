@@ -5,6 +5,7 @@
 $(document).ready(function(){
 
     var cost = 0;
+    localStorage.setItem('cost', 0);
 
 //カードリスト
     var cards = new Array();
@@ -70,7 +71,7 @@ $(document).ready(function(){
     });
 
     $(document).on("click",".open", function(){
-        var newWin = window.open( 'person/' + $(this).data('id') + '.html', 'detail', 'width=800,height=480,scrollbars=yes');
+        var newWin = window.open( 'person/' + $(this).data('id') + '.html', 'detail', 'width=1200,height=600,scrollbars=yes');
         newWin.focus();
     });
 
@@ -94,18 +95,15 @@ $(document).ready(function(){
 
         $('#select td').eq(localStorage.getItem('cardNo')).html(
             "<p class='cost' data-cost='" + target.cost + "'>"+ target.name +"（"+ target.party +"）</p>" +
-            "<img data-id='"+ ( target.id + 1 ) +"' class='open' src='public/" + target.portrait_image + "'>" +
-            "<div>" +
-                "<ul>" +
-                    "<li class='number_of_records'></li>" +
-                    "<li class='mark'></li>" +
-                "</ul>" +
-            "</div>"
+            "<p class='number_of_records'></p>" +
+            "<span class='mark'></span>" +
+            "<img data-id='"+ ( target.id + 1 ) +"' class='open' src='public/" + target.portrait_image + "'>"
         );
 
         $('#select td').eq(localStorage.getItem('cardNo')).data('id',id);
         cost = cost + target.cost;
         console.log('current cost:' + cost);
+        localStorage.setItem('cost', cost);
 
         //calcPoint();
         closeModal('#modal1');
@@ -162,6 +160,19 @@ function calcPoint() {
     cards.push({  "id" : 18,  "name" : "小川 淳也",  "furigana" : "おがわ じゅんや",  "party" : "民主",  "constituency_broad" : "比例",  "constituency_narrow" : "四国",  "win_count_lower_house" : "4",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "079.png",  "number_of_records" : 1370, "cost" : 2,  });
     cards.push({  "id" : 19,  "name" : "小野寺 五典",  "furigana" : "おのでら いつのり",  "party" : "自民",  "constituency_broad" : "宮城",  "constituency_narrow" : "6",  "win_count_lower_house" : "6",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "087.png",  "number_of_records" : 3646, "cost" : 3,  });
 
+    //カードリスト
+    var speaks = new Array();
+    speaks.push('○衆議院議員 山下委員から、なぜ今回も参議院....');
+    speaks.push('○本日、この重要な安保法制が採決されるので....');
+    speaks.push('○今回の台風で被害に遭われた皆様方、また、....');
+    speaks.push('○ＴＰＰ協定は、アジア太平洋地域に、自由、....');
+    speaks.push('○今委員御指摘いただきましたとおり、直交集....');
+    speaks.push('○自由民主党を代表して、平和安全法制につい....');
+    speaks.push('○この特別委員会、きょうで百時間を超えると....');
+    speaks.push('○まず、今の柿沢提出者の話を少し補足させて....');
+    speaks.push('○きょうも質問の機会をお与えいただきました....');
+    speaks.push('○堤防が一たび決壊をいたしますと、甚大な人....');
+
     //if(5 == $('#select img').size()) {
         //集計
         var point = 0;
@@ -172,19 +183,40 @@ function calcPoint() {
             if(-1 < $(this).data('id')) {
                 point = point + cards[$(this).data('id')].number_of_records;
                 $("#select td").eq(index++).find('.number_of_records').html(cards[$(this).data('id')].number_of_records);
+                $('#info_right').append($('<p style="font-size: small">').text(cards[$(this).data('id')].name + 'の発言：' + speaks[Math.round(Math.random()*100)%10]));
             }
         });
 
-        $('#point').html(point);
-        $('#rank').html(Math.round(Math.random()*100));
     //}
 
-    $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/1.png' >");
+    if( Math.round(Math.random()*100)%10 < 6) {
+        console.log('two pair');
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/3.png' >");
+        $('#point').html(point*1);
+    } else if ( Math.round(Math.random()*100)%10 < 8) {
+        console.log('three card');
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $('#point').html(point*2);
+    } else if ( Math.round(Math.random()*100)%10 < 10) {
+        console.log('full hause');
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/5.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/5.png' >");
+        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/5.png' >");
+        $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $('#point').html(point*3);
+    }
 
+    $('#info_right').height = 400;
+    $('#rank').html(Math.round(Math.random()*100));
 }
 
 function clear() {

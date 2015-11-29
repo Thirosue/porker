@@ -84,9 +84,7 @@ header h3 {
 }
 
 #select img{
-    
-    margin: 0px 10px;
-    
+    width: 160px;
 }
 
 #select td {
@@ -105,6 +103,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#895c18', end
 
 }
 
+#info_text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: #ddd;
+    letter-spacing: 6px;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 0px 0px 3px white;
+    margin-top: 3px;
+        }
+    
+    
+
 #date{
     display: inline-block;
     text-align: right;
@@ -122,4 +135,93 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#895c18', end
 
 #main_logo {
     display: inline-block;
+}
+
+#cards a {
+    
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 19px;
+    
+    padding: 6px 15px;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 12px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 7px 2px ;
+            font-weight: bold;
+    border: 2px solid #E0D96D;
+        
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff3019+0,cf0404+68,bf7676+99 */
+background: #ff3019; /* Old browsers */
+background: -moz-linear-gradient(top,  #ff3019 0%, #cf0404 68%, #bf7676 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #ff3019 0%,#cf0404 68%,#bf7676 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #ff3019 0%,#cf0404 68%,#bf7676 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#bf7676',GradientType=0 ); /* IE6-9 */
+
+}
+
+#main_image{
+    
+}
+
+#select .cost{
+        color: white;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-shadow: 0px 2px 2px black;
+        font-size: 13px;
+}
+
+.number_of_records {
+    position: absolute;
+    margin-top: 210px;
+    width: 110px;
+    /* height: 100px; */
+    background: red;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 0px;
+    border-radius: 15px;
+    border: 3px solid;
+    margin-left: 18px;
+}
+
+.mark {
+    
+        position: absolute;
+    margin-top: 224px;
+    
+}
+#main_logo img{
+    width: 200px;
+    margin-top: 4px;
+    margin-left: 10px;
+    
+}
+
+#info_left p{
+    display: inline;
+}
+
+#score {
+    font-size: 32px;
+    font-weight: bold;
+    text-shadow: 0px 1px 1px black;
+    letter-spacing: 4px;
+    margin-top: 50px;
+    line-height: 70px;
+}
+
+.mark img{
+    
+        width: 50px !important;
+    margin-top: -73px;
+    margin-left: 110px;
+    box-shadow: 0px 0px 14px -1px white;
+    
 }
