@@ -8,7 +8,10 @@
 <body>
     
     <header>
-        <h3>手札</h3>
+    
+        <span id="main_logo">logo</span>
+        
+        <span id="date">aaa</span>
     </header>
 
     <div id="modal1" class="modal-content">
@@ -40,7 +43,12 @@
 
     <div id="up_frame">
         <div id="up_image">
-            <img src="images/main_bg.jpg">
+            
+            <div class="cartein_r"><img src="images/cartein01.png"></div>
+            <div class="cartein_l"><img src="images/cartein00.png"></div>
+            
+            <img src="images/main_bg.png">
+            
             <div style="border: double" id="cards">
                 <table id="select">
                     <td>
@@ -62,7 +70,13 @@
             </div>
         </div>
     </div>
+    
+    <div class="wood_bar"></div>
+    
     <div id="down_frame">
+        
+        
+        
         <div id="info_left">
             <div style="border: double">
                 <span>POINT:<p id="point"></p></span>
@@ -70,12 +84,17 @@
             </div>
         </div>
         <div id="info_right">個々のパラメーター</div>
+        
     </div>
+    
+    <div class="wood_bar"></div>
     
     <h3>議員を５枚選択してください</h3>
     <div>
     
-    <footer></footer>
+    <footer>
+        add copyrights.    
+    </footer>
         <ul id="list">
         </ul>
     </div>
@@ -87,4 +106,15 @@
 <script src="js/index.js"></script>
 <script src="js/modal.js"></script>
 <script type="text/javascript" src="chrome-extension://aadgmnobpdmgmigaicncghmmoeflnamj/ng-inspector.js"></script>
+    
+    <script>
+    
+        $(function(){
+            $("#date").text("2016年5月1日（日）").click(function(){
+                calcPoint();
+                $(this).text("2016年6月1日（日）");
+            });
+        });
+        
+    </script>
 </html>

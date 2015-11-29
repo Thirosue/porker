@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>59</numberOfRecords>
+    <numberOfReturn>30</numberOfReturn>
+    <startRecord>1</startRecord>
+    <nextRecordPosition>31</nextRecordPosition>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>37</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　自由民主党の小野寺五典です。小此木委員に引き続き、情報公開法について質問させていただきます。
+　まず、今回の委員会審議の中で、特に一番議論が集中したところ、それが目的規定に知る権利を盛り込むかどうかというところだと思っております。そこで、まず初めに、この知る権利を明記することの妥当性について、少し議論をしていきたいと思います。
+　さきの参考人質疑の中で、塩野参考人から出た御意見でありますが、この知る権利を明記するということは、学説上我が国の憲法が知る権利を保障しているかどうかという問題と、条文の形で憲法上の言葉を書くかどうかということは、全く別の問題であるということが指摘されました。また、憲法上の抽象的権利という考え方は、これは実はかなり日本的な考え方であり、余り普遍性のある考え方ではないのではないか、いずれにしても、こういう議論というのは学問上の問題だというような指摘がありました。さらに、憲法上の権利を確定するのは憲法制定権者と最高裁のいずれかでありまして、最高裁は開示請求権としての意味での知る権利は認めていないということから、条文上規定することは適切でないと考えている、こういう御意見が塩野参考人からありました。
+　他方、その他の参考人の多くの皆さんは、この知る権利というのを明記すべきと指摘しています。特に、右崎参考人は、世界人権宣言、ドイツ憲法、アメリカ下院の作成したガイド、また、イギリス政府の白書、こういうのを例に挙げられまして、人権の国際的発展動向を踏まえると、憲法第二十一条の表現の自由にはこの知る権利が含まれていると理解することが十分に可能だというような御意見をおっしゃいました。
+　こういうふうに、解釈が非常に分かれているわけでありますが、このドイツ憲法あるいはアメリカ下院のガイドにあります知る権利といいますのが、今議論されていますこの情報公開法の中での憲法上での権利として、政府に対する積極的な情報開示請求権の意味で用いられているかどうかということは、ちょっとまだ十分私としても理解ができないところであります。
+　そこで、まず政府にお伺いしたいのですが、諸外国におきまして、本当に、知る権利というのを法律上明記することが世界的な潮流なのか。我が国で今情報公開法として議論されているような内容について、知る権利を法律上明記しているのかどうか、このことについてお伺いしたいと思っています。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>39</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　といいますと、結論的には、我が国の今審議しておりますこの知る権利というところとは、外国の例は少し違うというような結論かなというふうに思っています。
+　さらにちょっとお伺いしたいのですが、この知る権利というのが憲法上保障されているということは我が国において既に通説となっているというような御指摘もありました。この知る権利の概念について、学説の状況、裁判上の取り扱いについて、本当にこのような通説になっているのかどうか、さらにお伺いしたいと思うのです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>41</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　といいますと、この知る権利というのは、学説上の評価も定まっていない、また裁判上でもそれほど明確になっていない、そういうことでありますと、知る権利ということを今回の法律の目的規定の中に明記するということになりますと、これは、憲法解釈上はっきりしていないものを法律で確定しようというようなことにもつながるのではないかと思いますので、私は、おかしいのかなというふうに考えております。
+　また、この間塩野参考人が御指摘されましたが、この学説上の議論というのは、やはり議論は議論ということでさらに深める必要があると思うのですが、今回の法律の文言としてそれを規定するということは適当ではないという御意見もありましたので、私は、この法律の運用上、知る権利の文言の有無ということ、これを議論するというよりは、その内容について、しっかりとその条文の中に盛り込めばいいのかなというふうに考えている一人であります。
+　さて次に、またもう一つ議論のありました参加、監視ということ、これが行政改革委員会の意見には、明記すべきという形だったと思うのですが、この政府案の中にはこれは落ちている、そういう御指摘が野党側あるいはさきの参考人の中からもありました。
+　そこで、この参加、監視という表現が落ちたということについて、私もちょっとまだはっきりしないところがありますので、この参加、監視という表現がなかった理由について、ぜひ政府にお伺いしたいと思うのです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>43</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　と申しますと、これは参加、監視という言葉が法律用語としてある程度限定されて使われているものであるから、立法技術的問題として、これを使うことは適当ではないということで今回使わなかったという御答弁だと思っています。
+　そうなりますと、まず私は、この参加、監視ということ、当然非常に重要な論点だと思いますので、この参加、監視という文言、これが今回技術的には盛り込むことができなかったということですが、政府案、この内容というのはその中に盛り込んでいるのだということについて、ぜひ明確に大臣から御答弁をいただきたいのです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>45</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　この参加、監視という考え方、確かに、私どもは国会議員でありまして、国民から選ばれております。その中で、私どもの仕事も重要でありますが、今後やはり国民の視点というのは、政府にいろいろな形で直接声を反映したい、そういう意見もあると思いますので、それも踏まえて、ぜひ実効ある法律にしていっていただきたいというふうに思っています。
+　それでは次に、またこれは私は何度かこの委員会で質問させていただいておりますが、特殊法人の取り扱い。今国民の関心といいますのは、特殊法人あるいは認可法人その他に、一体その内容はどうなっているのかということも含めて、いろいろな論点があると思います。
+　この特殊法人については、参考人の方々の御意見、これまでのいろいろな議論を含めまして、情報公開のための法制上の措置が必要であるということは、もうこれは与野党、共産党案も含め一致しているというふうに考えておりますが、自民党としましても、法案提出に先立つ三党合意におきまして、この法律の制定後二年以内に特殊法人を対象とする情報公開法案の国会提出を図るということを決定しています。
+　問題は、この行政機関を対象とする法律を現時点で修正して、特殊法人にも直接適用することがいいのか、あるいは、専門的な検討を経た上で特殊法人に関する情報公開法を制定する方が適当なのかということだと思います。
+　この点、論点が分かれていると思うのですが、このことについては、さきの参考人質疑におきまして、塩野参考人が、特殊法人の中にはいろいろな性格のものがある、これまで理論上検討が進んでいないということもあって、合理的な説明を行うための整理には二年程度の検討期間が必要だということでありました。
+　ですから、法制上、技術上、これを一緒に今回の中ですることは難しいから、まず、この法案に盛り込んでありますように、二年程度検討してから、別な法律でしっかり定めていこう、そういう案だと思っています。これも、そうなのかなとい
+うふうに感じるのです。
+　そこで、改めまして、政府側に、特殊法人を本法の対象としなかった理由について、この議論を含めて、明確に御答弁いただきたいと思うのです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>47</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　確かに一口に特殊法人と申しましても、いろいろな性格のものがあります。ですから、それを全部一緒くたに公開という形になってもまた性質上違うものもあると思います。ぜひその内容を精査していただいて検討していただき、私個人としましては、ぜひ認可法人についてもその範囲を広げていただければというふうに思っています。
+　さて、その中で、さきの参考人の御意見の中にもあったと思うんですが、先日研究会の報告書が公表されたということで、これは特殊法人の情報公開を検討するというようなそういう内容の研究会だというふうに伺ったんですが、その内容について少しお伺いしたいと思うんです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>49</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　今のような基準という形で諸外国では情報公開については対応しているということになりますと、これは単に特殊法人ということだけではなくて、認可法人、指定法人、そういうことも恐らく基準として検討できるのではないかというふうに思っています。
+　ですから、政府が法律として設置をしています特殊法人というだけではなくて、これは、あくまでも民間からの自発的な認可要請ではあっても、今のような基準であれば、認可法人にもこれから公開の状況が及ぶのではないかというふうに考えますので、ぜひそれも含めて今後検討していただければというふうに思っています。
+　それでは次に、存否情報について、少しお伺いしたいと思っています。
+　存否情報につきまして、これは三派案それから政府案にお伺いしたいと思うんですが、まず存否情報、委員会でもいろんな議論がありました。特に、企業活動に対してそのことがあるかどうかによってある程度推察がつくというような指摘もあったと思うんですが、この存否情報、共産党案ではそもそも規定を設けていないということ、また三派案では個人情報、国の安全、捜査等の情報に限定しておりました。これは、要は限定することが適切かどうかというところだと思っています。
+　この点につきましては、先ほど経済活動という点から、さきの参考人の御意見でも、経団連の意見としまして、法人情報について存否情報の規定を適用することが必要であるというような御意見もあったと思います。例えば、参考人の中では、アメリカでは存否情報の範囲というのは国防情報あるいは個人情報に限定されているという指摘があったと思います。
+　そこで政府にお伺いしたいんですが、このような存否情報の限定ということについてどのようにお考えか、改めてお伺いしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>51</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　この存否情報ですが、さきの参考人質疑の中でも、参考人の中には、法人情報については存否情報として保護すべきものではないと言い切られた方もいらっしゃったと思います。まだ、三派案の提案者の方の中にも、法人に関する存否情報については、法人に関する不開示情報の規定で対処すればいいというような御意見もあったと思っています。しかしながら、不開示情報の規定で対処するのは、私は十分に保護したことにはならないのではないかというふうにも考えております。
+　そこで、改めまして、この存否情報の適用範囲を限定するということについて、まず三派案の提出者の方にお伺いしたいと思います。また、その後に、政府にも同じ質問をいたしますので、お答えをいただければと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>54</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　私も企業活動に関して、先ほどの経団連のお話を伺うと、特にその存否自体が企業活動あるいは企業の秘密にかかわるという中で、非常にこの点には注意をしていきたいと思っています。ですが、三派案の先ほどのお答えにありましたが、存否情報というのが乱用につながるというようなことがないような形には、ぜひこの法案、しっかりと考えていただきたいというふうに考えています。
+　それでは次に、これもまた同じく議論になっておりましたが、訴訟におけるインカメラ審理導入の適否について、政府にお伺いしたいと思います。
+　裁判段階におきましてこのインカメラ審査手続の導入について、これは参考人からもいろんな御意見がありました。その中で、検討すべきという御意見が多かったと思うんですが、特に塩野参考人からも、三派案では現行憲法下での疑義は解消していないとして、インカメラ審理導入の可能性について今後とも引き続き探る必要があるというような御指摘があったと思います。
+　そこで、政府に、裁判所におけるインカメラ審理を認めることについて、その見解について改めてお伺いしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>56</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　ぜひ、重要な課題でありますから、慎重に審議、検討し、納得のいける結論を出していただければというふうに思っています。
+　それでは次に、地方公共団体への要請の内容についてお伺いしたいと思います。
+　今回の情報公開法案第四十条ですが、「地方公共団体は、この法律の趣旨にのっとり、その保有する情報の公開に関し必要な施策を策定し、及びこれを実施するよう努めなければならない。」という規定があります。現実的には、各都道府県、かなりのところが、この情報公開法を情報公開条例という形で先取りしている部分もあると思うのですが、まず、この地方公共団体における情報公開条例の制定について、政府側にお伺いしたいと思っています。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>58</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　こういう形で情報公開法というのが制定されますと、既にあります各都道府県、各市町村にもありますが、この情報公開条例というものとの関連性というのでしょうか、これが非常に重要な議論になってくると思います。
+　せっかくの地方自治体が先行している試みでありますので、ぜひこの法律が妨げにならないように、また、さらにその情報公開の趣旨にのっとって進展するような、そういう環境を保っていただきたいと思っております。ぜひ、大臣からその趣旨について、明確な答弁をいただきたいと思っています。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>60</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　ぜひ、今御答弁の内容で、しっかりとした対策をお願いしたいというふうに思っています。
+　それでは、これもまた議論がかなりあったところでありますが、土地管轄の問題、原告住所地での訴訟提起を認めることの妥当性ということについて、政府にお伺いしたいと思っています。
+　原告住所地で訴訟提起を認めるかどうかということでありますが、これは参考人質疑の中でも要望がかなり強いところでありました。その中で、参考人の中には、例えばコストがかなりかかるとか、あるいは、手続等で非常に時間がかかるとか、そういうような御意見もあったと思います。
+　この点につきましては、塩野参考人の方から、質疑の中で、国会が判断することというお答えがあったと思います。要するに国会の判断ということだったと思うのですが、その塩野先生の直前の質疑の内容などを考え合わせますと、塩野先生の真意といいますのは、これは恐らく、行政事件訴訟法全体の問題として、この土地管轄の問題を議論した上で、要するに専門的な検討をもうちょっとすべきだということで、解決を図るべきというふうな御趣旨があったというふうに私は感じております。
+　このような御意見を真摯に考えますと、国会が国権の最高機関であり唯一の立法機関でありますので、我々が決断すれば足りるといった単純なものではなくて、これは法制度上かなり広範囲に議論をするというような責任もあるのではないかというふうに考えます。
+　そこで、この土地管轄について、まず政府の御意見を改めてお伺いしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>62</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　済みません、今のは、検討をしていくということなんですが、それは前向きの検討なのでしょうか、それとも、現段階ではなかなか厳しいということなのでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>64</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　済みません、まだ新人なものですから、なかなか言葉によく理解できない部分が多くて、恐らく、実情に合わせて、これから御不満がないような形でやっていくというようなことかと思います。
+　このような訴訟管轄の問題につきましては、恐らくおっしゃりたい内容というのは、同一の文書について全国各地で次々と提訴が起きた場合に、それをどこでどう扱うのかというような整理の問題があったり、あるいは、情報公開訴訟に関しまして、現住所所在地の訴訟提起を認める規定を設けるということで、訴訟制度全体、ほかの行政訴訟関係で同じような規定がありますから、ゆがみが生じるというような種々の問題があって、恐らくそういう御意見になったと思うのです。
+　いかんせん、これからは、それを使う方の立場というのでしょうか、国民の立場ということも十分踏まえられて、現実にもう訴訟ができないよなどというようなことがないようにしないと、せっかくの法律が有効に活用しないのではないかというふうに考えております。
+　そこで、この情報公開法、きょう実はいろいろな議論がずっとあったと思うのですが、その中で、三派案、共産党案、政府案も含め考えてみますと、例えば、一番初めの知る権利ということの議論がありました。この議論というのは、その内容については十分理解をしている、ですが、憲法上明確になっていない中で、法律でそれを明記するということは技術上あるいは学問的にも少し問題があるのではないかということで、今回政府案の中には入れなかったということが論点として明らかになったと思います。
+　また、監視、参加という文言が落ちたということでありますが、これも、監視、参加ということが、現在の法技術上、この言葉というのがまた別の意味にとられてしまっては困る。既に法律用語として確立している以上、これをそのまま入れてしまうと、解釈としてまた違う形になってしまう。そういうふうな技術的な問題で、これを使わないで別な文言にした。ですから、その趣旨が実はこの中に盛り込まれているということも、話の中でクローズアップされてきたのではないかというふうに考えています。
+　それから、特殊法人の取り扱いでありますが、これにつきましても、確かに今回の法律の中でえいやと一緒くたに規定することは、ある面ではそういう御意見もあるとは思うのですが、現実的に、特殊法人というのは既に政府、行政体からは距離を置いております。その設置目的もまた、政府ではないという形で設置されている部分がかなりあるということで、内容については一つ一つ精査をする必要が今後もあるということが、よく考えれば、多分そういうふうに出てくると思います。
+　ですから、二年程度の、期間というのは果たしてこの二年が適当かどうかわかりませんが、期間を置いた中で、実効あるもの、あるいは先ほど諸外国の例が紹介されましたが、諸外国の例に合うような形で一つ一つ詰めていくというような、ある面では地味な作業も今後必要かと思いますので、今回の規定の中ではこういう形で、二年後に別な形で立法するというものは仕方がないのではないかというふうに思います。
+　それから、存否情報に関する規定の必要性でありますが、これは三派案あるいは共産党案の御意見も、確かにそうだと思います。余りこういう規定をたくさんつくってしまうと、むしろ乱用につながるおそれがあるのではないか、そういう御意見、確かにそのとおりだと思います。
+　ただ、確かに経団連の御意見、企業活動もこれに含めていただかないと、存否情報が企業に対しても制限がある。要するに、どの段階でどういうふうに実効あるようにこの法律を用いていくかという現実の課題であるというふうに考えております。
+　ということで、最後の土地管轄の問題については、議論が分かれますし、ほかの法律との整合性もあるので慎重な対応が必要だということなんですが、どうも、全体の今回の委員会の審議を通じて言いますと、ある面では、ほぼ、内容とか方向については、これはどこの党も同じく同じ方向に向かっているのではないか。
+　ただ、その中で、実際に法案化すると、技術的にこれはどうも難しいとか、あるいは、ここまで言い切ってしまった場合にはほかに弊害が出てくるとか、そういうふうないろいろな障害がたくさん出てくるということで、表現がちょっと変わったり、あるいは読み方によっては、少し表現がトーンダウンしたのではないか、そのようなとらえ方もされるのではないかというふうに思っています。
+　ですが、いずれにしましても、方向というのは、一刻も早くこの情報公開法を通しまして、そして実効ある行政の透明性というのでしょうか、それを図っていくことが最も重要なことだというふうに思っています。
+　そして、特殊法人だけではなくて、認可法人も含め、政府が現実的にはかなり関与している外郭団体が日本にはたくさんあります。それが今、国民にとっては非常な関心の的になっています。ですから、ぜひこれもその対象に今後は広げていっていただきたいというふうに考える一人でもあります。
+　そこで、最後になりましたが、ここまでいろいろな議論をしております。今国会でぜひともこの法案を成立させていただきたいのですが、私は、できるだけ早くこの法案が成立することを望む一人としまして、この早期制定に向けた決意を大臣にお伺いしたいと思っております。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1998-06-04</date>
+                    <speechOrder>66</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　私は衆議院議員となりましてまだ半年であります。ですから、今までは外から国会議員を見ておりました。その中で、ここまで国会議員、衆議院、参議院も含め、一生懸命国のために議論しているということを、実は気づきませんでした。改めて、大変な御努力を皆さんされているな、また各省庁も、本当に日本の将来のために前向きにいろいろな努力をされているということも改めて感じました。
+　ですから、ぜひこのような活動がより国民に広く知れ渡るためにも、また国民にさらにこの活動を理解していただくようになるためにも、私たちは隠し事がありませんということを、まずこの情報公開法の中で国民全体に大きくアピールをしていって、さらにその中で、実効ある情報公開をする中で、国民に今、ともすれば多少不信感がありますこの政治と行政に新たな光を当てまして、なるほど、一生懸命やっているんだな、あるいは、政府は変わったな、そういう一つの転機にこの法案がなればいいと思っております。
+　ですから、いろいろな内容等についての議論は確かに分かれるところではありますが、今国民が一刻も早く早期成立を願っておりますこの情報公開法をぜひ成立させまして、新たな日本再生のために頑張っていければなというふうに思っております。情報公開法早期成立をお願いして、質問を終わらせていただきます。
+　ありがとうございました。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14206040020011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>10号</issue>
+                    <date>1998-05-27</date>
+                    <speechOrder>9</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　小野寺五典です。きょうは、自由民主党を代表しまして、参考人に質疑をさせていただきます。
+　日ごろこういう活動に大変御尽力いただきまして、参考人の皆様には大変ありがとうございます。特に塩野先生には、要綱案作成に御尽力いただきまして、感謝しております。また、高橋参考人には、私も仙台市民でありました、日ごろの活動につきまして心頼もしく思っている者の一人であります。また、立花参考人には、以前に経団連
+の方でのアンケート調査の結果を見させていただきました。公開に対して、日ごろ企業活動の中で非常に積極的な御尽力をいただきまして、大変感謝しております。
+　そういった中、この情報公開法、一刻も早く成立をさせ、また、その実効ある運用をするべきだと思っている者は、国民全部ではないかというふうに思っております。きょうは、その中で、少し実のある議論をさせていただきたいと考えております。
+　まず、塩野参考人にお伺いしたいのですが、今回の情報公開法の中で特に議論となっていますのは、幾つかの不開示情報の問題であります。
+　この中で、特に防衛、外交、捜査情報に関しまして、政府提出案、三派案それから共産党案、それぞれかなりの違いがあると思うのですが、この非常に国家機密に関します防衛外交情報についてどのような取り扱いをしたらいいのか、御意見を伺わせていただければと思うのです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>10号</issue>
+                    <date>1998-05-27</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　今の防衛外交情報につきまして、特に政府案につきましては、最終的な判断というのがいわゆる政治に任されているといいますか、そういうふうな問題があると思うのですが、三派案につきましては、最終的に司法の判断に任すというような解釈ができると思いますし、また共産党案につきましては、防衛情報の不開示情報という明記が特にないという中で、この点につきましては私、政府案については、確かにこのような規定が必要だし、また最終的にはやはり政治の判断、特に防衛上の問題といいますのは特殊な事情もありますので、政治の判断が必要かなというふうに考えております。
+　次に、企業の活動に関していろいろな問題が発生すると思うのですが、立花参考人に、存否に関する情報について、ちょっとお伺いしたいと思います。
+　特に、先ほど立花参考人の方からお話がありました企業の任意提出の情報について、これに関しては政府案でもしっかりとした規定があるわけなんですが、その中で今議論になっていますのが存否に関する情報ということで、政府案については、存否に関する情報は規定をされております。三派案につきましては、存否に関する情報の規定というのを、外交、防衛、捜査、個人ということで、実は企業の方は限定しておりません。また、共産党案では存否に関する規定を置いていないということです。
+　企業活動の中で、その情報があるかないかということが企業の営利活動に関して大きな影響を及ぼすというような事例というのが幾つか考えられると思うのですが、その点についての御意見が先ほどちょっとなかったものですから、聞かせていただければと思っています。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>10号</issue>
+                    <date>1998-05-27</date>
+                    <speechOrder>13</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　それから、今回、不開示情報の中でもう一つ議論となっていますのが意思形成過程情報の問題であります。
+　特に政府案につきましては、不開示情報のうち、審議、検討の意思形成過程、この過程というのがかなり重要な意味合いを持ちます。また、その過程の途中で幾つかの情報が外に公開されるということで、むしろ、ある面で政策決定にいろいろな影響を及ぼすということも想定されるのですが、塩野参考人にお伺いしたいのですけれども、この意思形成過程情報について、諸外国の例を含めて、どのような状況になっておりますでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>10号</issue>
+                    <date>1998-05-27</date>
+                    <speechOrder>15</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　こういう形で、今、行政本体に関しては情報公開法で幾つかの門戸が開かれるということになると思うのですが、現在、国民の関心というのは、行政本体以外に、今回の中でもうたっておりますが、特殊法人あるいは認可法人、指定法人、そういう行政の、附属機関という言い
+方はちょっと変ですが、それにかかわるような幾つかの機関に関しての内容についても、国民の知る権利ということがかなりうたわれる部分があるのかなというふうに思っています。
+　今回の規定の中で特殊法人について幾つかの規定があると思うのですが、これは要綱案をおまとめになりました塩野先生に、その目的、趣旨について、ちょっとお伺いしたいのです。特殊法人についてです。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>10号</issue>
+                    <date>1998-05-27</date>
+                    <speechOrder>17</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　済みません、また塩野先生に。
+　今、特殊法人のことについて言及されたのですが、認可法人、指定法人についてはどういうふうに考えたらいいでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>10号</issue>
+                    <date>1998-05-27</date>
+                    <speechOrder>19</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　今、情報公開法について、大枠について私も確かにこの政府案に対しては賛成をしておりますが、この特殊法人の扱い、それから認可法人、指定法人の扱い。特に、政府の仕事をかなり肩がわりしている、そういう指定法人、認可法人があることは塩野先生御指摘のとおりだと思います。そういう中で、今後、こちらの方にもぜひ目を向けていっていただければなというふうに考えています。
+　いずれにしましても、今回の情報公開法、これは一日も早い成立を国民が望んでおります。各国の例を見ましても、情報公開法成立後に、いろいろな形で改正が数多くされています。ですから、まず、日本で初めての試みでありますから、法成立を目指しまして、その後、使いやすいように、あるいは実効あるように、その都度見直していくということも今後必要ではないかと考えております。
+　きょうはどうもありがとうございました。質問を終わります。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205270020010.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>2</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　おはようございます。自由民主党の小野寺五典です。本日はよろしくお願いいたします。
+　まず、今回の情報公開法案ですが、これは行政改革の大きな柱になる非常に大きな問題、意味のあるものだと思っております。行政のむだ、不正が一体どこにあるのか、それを正すこと、あるいは、今日本の行政に求められています行政情報を独占しない、国民が行政を監視していく、こういう大きな意義がある、大きな問題だと思っています。
+　そこで、きょうはこの問題について、少し細かく質問させていただければと思っております。
+　まず、今回の情報公開法の特徴でありますが、私率直に感じまして、かなり踏み込んだ、一生懸
+命つくった内容ではないかというふうに感じています。その第一点、特に政府案でありますが、まず説明する責任ということ、アカウンタビリティーということを明確にしているということ。それからまた、対象機関というのが行政機関をすべて網羅しているということ。これは、現在各県で条例で制定されていますが、その中のほとんどのものは警察が含まれておりませんが、行政機関ということで警察も含まれる、一部不開示情報もありますが、そのような規定になっているということ。
+　また、対象文書でありますが、これは組織的に用いるものということも含まれまして、通常条例では決裁済みの文書ということになっていますが、その文書の範囲も拡大しているということ、あるいは法制定前のストックの情報についてもこの情報公開法の対象になるということ、また電子情報も対象になる、このように、内容についてはかなり広範囲に、また踏み込んだ状況にあるのではないかというふうに思っています。
+　加えるに、例えば外国人を含め何人にも情報開示請求権を認めているということ。また、その行政機関の不開示の問題に関して、これに対応するために情報公開審査会、あるいはもしここでさらに問題がある場合には裁判所に提訴を行う、司法の場でも判断をするというようなこと。いろいろな内容が盛り込まれていまして、一刻も早くこの情報公開法、国民がこういう法律案を待っております、国民本位で使いやすい法律の制定ということを早く実現したいなというふうに思っている一人であります。
+　また、今回この情報公開法、確かに法整備は初めての試みでありますから、いろいろな問題が確かに各界から指摘をされています。ですが、まず成立をさせて、そして、これはアメリカの情報自由法の例でもありますが、その運用に当たって細かく改正していく、そのような配慮も今後必要ではないかというふうに考えています。
+　それに当たりまして、まず初めに、特にきょうは、私、この不開示情報の規定に関して、不開示情報というのはある面で余り範囲を広くしてもいけない、ですが、かといって国家機密あるいは国防に関する問題あるいは個人の情報に関して秘匿すべきものは秘匿する、そういう非常に難しい状況であると思いますが、その規定について特にお伺いしたいと思っています。
+　まず、特に日本の国益に一番大きな問題であります防衛、外交それから捜査の情報について、この不開示の規定の趣旨についてお伺いしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>4</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　ちょっと確認しますが、すべての国で外交、防衛に関しては、例えば今の秘密指定があったようなそういう規定が必ずあるのでしょうか。今、すべてとおっしゃいましたが。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>6</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　それでは、三派案についてお伺いします。
+　同じく、外交、防衛、捜査情報の取り扱いについて、その内容について教えていただきたいと思うのですが。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>8</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　今の三派案の中で特に自分が考えますのは、例えば、最終的な判断を司法の場にゆだねる、それは、特にこの外交、防衛の問題、これが本当に裁判所で判断できるのかどうか。法の解釈の問題ではありませんので、非常に国際的な、国際関係の問題あるいはいろいろな防衛情報の問題、外交情報、そういうものが裁判所で果たして判断できるのか。そういうことを考えますと、本来政治のある場ということを考えますと、どうしてもこの国家の根幹にかかわる問題については、これはあくまでも国もしくはこの国会の場で議論していくこと、あるいは判断すべき部分ではないかというふうに思っています。
+　それからもう一つの、今の二十年の公開の要件でありますが、私も専門が国際政治でありますが、外交文書というのは二十年ではかなりまだ生々し過ぎるといいますか、そういう部分がありまして、たしかアメリカの情報自由法の中でも、秘密規定十年というのがありますが、かなりの部分は延長延長ということで、事実的にはかなり長く延ばしているのではないかというふうに考えていますので、少しその範囲については疑問が残るなというふうに思っています。
+　続いて、共産党案について同じくお伺いしたいと思うのですが、特に共産党案の場合には、防衛情報の規定ということ、これは特に置いていないというふうに判断しているのですが、その辺についてお伺いしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>10</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　さきの戦争に関しては、本当に私どもも同じような気持ちであります。
+　ただ、この防衛情報に関しましては、確かに、日本がおっしゃるような形で公開しても、これは対外的な部分で、ほかの国が公開をしておりません、当然でありますが。そうしますと、トランプでいえばカードの部分で、もし今、共産党案のような形であれば、日本はどんどんカードを見せておいて、相手はカードを伏せて、国際交渉をしなければいけない、あるいは国際政治の場で闘わなければいけない。
+　そういう部分がありますので、本当に将来的にすべての国がオープンになれば、それはそれで非常に意味があることでありますが、現実的には、日本以外の国が非公開という中では、日本だけが公開するということの事実面での問題が当然防衛上は起きてくるのかなというふうに思っております。
+　さて、時間も過ぎてまいりましたので、次に、同じく非開示情報でありますが、存否に関する情報、あるかないかということに対する情報について、政府案の規定の趣旨をお伺いしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>12</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　同じくこの存否情報に関してですが、三派案では、存否に関する情報の規定を、外交、防衛、捜査、個人に関する情報という形で限定していると思うのですが、それについての理由を教えてください。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>14</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　その際、ここに企業あるいは先端情報その他の規定が入っていないと思うのですが、例えば新薬の開発を申請しますということで、厚生省に今そういう申請が出ているかどうかということ自体の存否とか、イエス、ノーで、例えば企業活動に影響を及ぼす、あるいは先端技術の開発に影響を及ぼすような場合というのは想定されるかと思うのですが、その点についてはいかがでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>16</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　そうしますと、理解として、例えば、企業が初めから非開示を前提に情報を提供した、あるいは、これに関してはその存否について明らかにすることでも企業活動に影響を及ぼすという場合には、解釈上その情報に関しては存否を明らかにしないというふうに考えていいのでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>142</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣委員会</nameOfMeeting>
+                    <issue>9号</issue>
+                    <date>1998-05-15</date>
+                    <speechOrder>18</speechOrder>
+                    <speaker>小野寺五典</speaker>
+                    <speech>○小野寺委員　ただ、通常の企業の活動の中で、新薬の申請を出したかどうかということ自体が企業間競争ではすごく重要な意味合いを持つような感じがするのですが、同じように、いろいろな先端技術の分野で、例えばがんに対する新薬をつくりました。それが認められるかどうかは別として、内容は別として、どうもそういうのを開発しているらしい、それを申請したという段階で他社は、ああ、これはあそこがある程度のものを目鼻をつけたんだなというような判断にもつながるのではないかと思うのです。その点、いかがでしょうか。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/142/0020/14205150020009.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>

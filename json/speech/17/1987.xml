@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>2</numberOfRecords>
+    <numberOfReturn>2</numberOfReturn>
+    <startRecord>1</startRecord>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>108</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>大蔵委員会</nameOfMeeting>
+                    <issue>8号</issue>
+                    <date>1987-05-21</date>
+                    <speechOrder>196</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　ただいま議題となりました郵便貯金特別会計法の一部を改正する法律案に対する修正案につきまして、提案の趣旨及びその内容を御説明申し上げます。
+　御承知のとおり、この法律の施行期日は、原案では「昭和六十二年四月一日」と定められておりますが、既にその期日を経過いたしておりますので、これを「公布の日」に改めるとともに、これに伴い、附則の規定について所要の整備を図ることとするものであります。
+　以上が本修正案の提案の趣旨及びその内容であります。
+　何とぞ、御賛成くださいますようお願い申し上げます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/108/0140/10805210140008a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/108/0140/10805210140008.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>108</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>大蔵委員会</nameOfMeeting>
+                    <issue>7号</issue>
+                    <date>1987-05-15</date>
+                    <speechOrder>115</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員　ただいま議題となりました昭和六十二年度の財政運営に必要な財源の確保を図るための特別措置に関する法律案に対する修正案につきまして提案の趣旨及びその内容を御説明申し上げます。
+　御承知のとおり、この法律の施行期日は、原案では「昭和六十二年四月一日」と定められておりますが、既にその期日を経過いたしておりますので、これを「公布の日」に改めることとするものであります。
+　以上が本修正案の提案の趣旨及びその内容であります。
+　何とぞ、御賛成くださいますようお願い申し上げます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/108/0140/10805150140007a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/108/0140/10805150140007.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>

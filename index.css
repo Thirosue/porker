@@ -1,5 +1,9 @@
 *{
-    //color: #ff0000;
+    color: gray;
+}
+
+html{
+    background-color: black;
 }
 
 #up_frame {
@@ -10,7 +14,7 @@
 #down_frame {
     
     height: 300px;
-    background-color: brown;
+    background-image: url(images/wood_bg.jpg);
     text-align: center;
     
 }
@@ -25,20 +29,32 @@
 }
 
 header {
-    
-    height: 60px;
-    background-color : #0A2C5F;
-    
+    height: 28px;
+    background-image: url("images/cartein_base.png");
+}
+
+header h3 {
+
 }
 
 #info_left,#info_right {
     
     background: #632042;
-    width: 400px;
+    width: 41%;
     margin-top: 20px;
     height: 250px;
     
     
+}
+
+.cartein_r {
+    position: absolute;
+    right: 0px;
+}
+
+.cartein_l {
+    left: 0px;
+    position: absolute;
 }
 
 
@@ -74,4 +90,24 @@ header {
 #select td {
     width: 156px;
     height: 199px;
+}
+
+.wood_bar{
+    height:14px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#895c18+0,a39e49+7,7c501d+49,3d1500+54,7a4f00+90,3d2624+100 */
+background: #895c18; /* Old browsers */
+background: -moz-linear-gradient(top,  #895c18 0%, #a39e49 7%, #7c501d 49%, #3d1500 54%, #7a4f00 90%, #3d2624 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #895c18 0%,#a39e49 7%,#7c501d 49%,#3d1500 54%,#7a4f00 90%,#3d2624 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #895c18 0%,#a39e49 7%,#7c501d 49%,#3d1500 54%,#7a4f00 90%,#3d2624 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#895c18', endColorstr='#3d2624',GradientType=0 ); /* IE6-9 */
+
+}
+
+#date{
+    display: inline-block;
+    
+}
+
+#main_logo {
+    display: inline-block;
 }

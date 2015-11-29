@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>22</numberOfRecords>
+    <numberOfReturn>22</numberOfReturn>
+    <startRecord>1</startRecord>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>0</speechOrder>
+                    <speaker></speaker>
+                    <speech>平成二十六年十二月二十六日（金曜日）
+　　　午前十一時三十分開会
+　　　　─────────────
+　　　委員氏名
+　　　　委員長　　　　　　　　　丸川　珠代君
+　　　　理　事　　　　　　　　　大沼みずほ君
+　　　　理　事　　　　　　　　　羽生田　俊君
+　　　　理　事　　　　　　　　　福岡　資麿君
+　　　　理　事　　　　　　　　　津田弥太郎君
+　　　　理　事　　　　　　　　　長沢　広明君
+　　　　　　　　　　　　　　　　赤石　清美君
+　　　　　　　　　　　　　　　　石井みどり君
+　　　　　　　　　　　　　　　　木村　義雄君
+　　　　　　　　　　　　　　　　島村　　大君
+　　　　　　　　　　　　　　　　高階恵美子君
+　　　　　　　　　　　　　　　　滝沢　　求君
+　　　　　　　　　　　　　　　　武見　敬三君
+　　　　　　　　　　　　　　　三原じゅん子君
+　　　　　　　　　　　　　　　　石橋　通宏君
+　　　　　　　　　　　　　　　　西村まさみ君
+　　　　　　　　　　　　　　　　白　　眞勲君
+　　　　　　　　　　　　　　　　藤田　幸久君
+　　　　　　　　　　　　　　　　牧山ひろえ君
+　　　　　　　　　　　　　　　　山本　香苗君
+　　　　　　　　　　　　　　　　東　　　徹君
+　　　　　　　　　　　　　　　　小池　　晃君
+　　　　　　　　　　　　　　　　山口　和之君
+　　　　　　　　　　　　　　　薬師寺みちよ君
+　　　　　　　　　　　　　　　　福島みずほ君
+　　　　─────────────
+　　出席者は左のとおり。
+　　　　委員長　　　　　　　　　丸川　珠代君
+　　　　理　事
+　　　　　　　　　　　　　　　　大沼みずほ君
+　　　　　　　　　　　　　　　　羽生田　俊君
+　　　　　　　　　　　　　　　　福岡　資麿君
+　　　　　　　　　　　　　　　　津田弥太郎君
+　　　　　　　　　　　　　　　　長沢　広明君
+　　　　委　員
+　　　　　　　　　　　　　　　　赤石　清美君
+　　　　　　　　　　　　　　　　石井みどり君
+　　　　　　　　　　　　　　　　木村　義雄君
+　　　　　　　　　　　　　　　　島村　　大君
+　　　　　　　　　　　　　　　　高階恵美子君
+　　　　　　　　　　　　　　　　滝沢　　求君
+　　　　　　　　　　　　　　　　武見　敬三君
+　　　　　　　　　　　　　　　三原じゅん子君
+　　　　　　　　　　　　　　　　石橋　通宏君
+　　　　　　　　　　　　　　　　西村まさみ君
+　　　　　　　　　　　　　　　　白　　眞勲君
+　　　　　　　　　　　　　　　　藤田　幸久君
+　　　　　　　　　　　　　　　　牧山ひろえ君
+　　　　　　　　　　　　　　　　山本　香苗君
+　　　　　　　　　　　　　　　　東　　　徹君
+　　　　　　　　　　　　　　　　小池　　晃君
+　　　　　　　　　　　　　　　　山口　和之君
+　　　　　　　　　　　　　　　薬師寺みちよ君
+　　　　　　　　　　　　　　　　福島みずほ君
+　　　事務局側
+　　　　　　　常任委員会専門
+　　　　　　　員　　　　　　　　小林　　仁君
+　　　　─────────────
+　　本日の会議に付した案件
+○国政調査及び継続調査要求に関する件
+○委員派遣に関する件
+　　　　─────────────
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>1</speechOrder>
+                    <speaker>丸川珠代</speaker>
+                    <speech>○委員長（丸川珠代君）　ただいまから厚生労働委員会を開会いたします。
+　委員の異動について御報告いたします。
+　去る二十二日までに、酒井庸行君及び足立信也君が委員を辞任され、その補欠として石井みどり君及び牧山ひろえ君が選任されました。
+　　　　─────────────
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>2</speechOrder>
+                    <speaker>丸川珠代</speaker>
+                    <speech>○委員長（丸川珠代君）　国政調査及び継続調査要求に関する件についてお諮りをいたします。
+　本委員会は、従来どおり社会保障及び労働問題等に関する調査を行うこととし、今期国会閉会中も継続して調査を行うため、本件の継続調査要求書を議長に提出したいと存じますが、御異議ございませんか。
+　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>3</speechOrder>
+                    <speaker>丸川珠代</speaker>
+                    <speech>○委員長（丸川珠代君）　御異議ないと認め、さよう決定いたします。
+　なお、要求書の作成につきましては委員長に御一任を願いたいと存じますが、御異議ございませんか。
+　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>4</speechOrder>
+                    <speaker>丸川珠代</speaker>
+                    <speech>○委員長（丸川珠代君）　御異議ないと認め、さよう決定いたします。
+　　　　─────────────
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>5</speechOrder>
+                    <speaker>丸川珠代</speaker>
+                    <speech>○委員長（丸川珠代君）　委員派遣に関する件についてお諮りをいたします。
+　閉会中の委員派遣につきましては、その取扱いを委員長に御一任願いたいと存じますが、御異議ございませんか。
+　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>参議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>6</speechOrder>
+                    <speaker>丸川珠代</speaker>
+                    <speech>○委員長（丸川珠代君）　御異議ないと認め、さよう取り計らいます。
+　本日はこれにて散会いたします。
+　　　午前十一時三十一分散会
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/sangiin/188/0062/18812260062001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>0</speechOrder>
+                    <speaker></speaker>
+                    <speech>本委員は平成二十六年十二月二十五日（木曜日）議長の指名で、次のとおり選任された。
+　　　　　　赤枝　恒雄君　　　　秋葉　賢也君
+　　　　　　今枝宗一郎君　　　　大串　正樹君
+　　　　　　金子めぐみ君　　　　小松　　裕君
+　　　　　　古賀　　篤君　　　　白須賀貴樹君
+　　　　　　新谷　正義君　　　　田中　英之君
+　　　　　　田畑　裕明君　　　　高鳥　修一君
+　　　　　　とかしきなおみ君　　　　豊田真由子君
+　　　　　　中川　俊直君　　　　丹羽　雄哉君
+　　　　　　橋本　　岳君　　　　古川　　康君
+　　　　　　古田　圭一君　　　　堀内　詔子君
+　　　　　　松野　博一君　　　　松本　　純君
+　　　　　　松本　文明君　　　　三ッ林裕巳君
+　　　　　　宗清　皇一君　　　　村井　英樹君
+　　　　　　山下　貴司君　　　　渡辺　博道君
+　　　　　　阿部　知子君　　　　大串　博志君
+　　　　　　中島　克仁君　　　　中根　康浩君
+　　　　　　長妻　　昭君　　　　山井　和則君
+　　　　　　柚木　道義君　　　　足立　康史君
+　　　　　　井坂　信彦君　　　　浦野　靖人君
+　　　　　　重徳　和彦君　　　　伊佐　進一君
+　　　　　　輿水　恵一君　　　　角田　秀穂君
+　　　　　　古屋　範子君　　　　高橋千鶴子君
+　　　　　　堀内　照文君
+十二月二十五日
+　渡辺博道君が議院において、委員長に選任された。
+平成二十六年十二月二十六日（金曜日）
+　　　　午後零時五分開議
+　出席委員
+　　　委員長　渡辺　博道君
+　　　理事　赤枝　恒雄君　理事　高鳥　修一君
+　　　理事　とかしきなおみ君　理事　松野　博一君
+　　　理事　松本　文明君　理事　山井　和則君
+　　　理事　浦野　靖人君　理事　古屋　範子君
+　　　　　　秋葉　賢也君　　　　今枝宗一郎君
+　　　　　　大串　正樹君　　　　金子めぐみ君
+　　　　　　小松　　裕君　　　　古賀　　篤君
+　　　　　　白須賀貴樹君　　　　新谷　正義君
+　　　　　　田中　英之君　　　　田畑　裕明君
+　　　　　　豊田真由子君　　　　中川　俊直君
+　　　　　　橋本　　岳君　　　　古川　　康君
+　　　　　　古田　圭一君　　　　堀内　詔子君
+　　　　　　松本　　純君　　　　三ッ林裕巳君
+　　　　　　宗清　皇一君　　　　村井　英樹君
+　　　　　　山下　貴司君　　　　阿部　知子君
+　　　　　　大串　博志君　　　　中島　克仁君
+　　　　　　中根　康浩君　　　　長妻　　昭君
+　　　　　　柚木　道義君　　　　足立　康史君
+　　　　　　井坂　信彦君　　　　重徳　和彦君
+　　　　　　伊佐　進一君　　　　輿水　恵一君
+　　　　　　角田　秀穂君　　　　高橋千鶴子君
+　　　　　　堀内　照文君
+　　　　…………………………………
+　　　厚生労働大臣政務官　　　　橋本　　岳君
+　　　厚生労働委員会専門員　　　中尾　淳子君
+　　　　―――――――――――――
+十二月二十六日
+　　　　　　赤枝　恒雄君　　　　高鳥　修一君
+　　　　　　とかしきなおみ君　　　　松野　博一君
+　　　　　　松本　文明君　　　　山井　和則君
+　　　　　　浦野　靖人君　　　　古屋　範子君
+　が理事に当選した。
+　　　　―――――――――――――
+本日の会議に付した案件
+　理事の互選
+　閉会中審査に関する件
+　　　　　――――◇―――――
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>1</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　これより会議を開きます。
+　この際、一言御挨拶申し上げます。
+　このたび、再度、厚生労働委員長の重責を担うことになりました渡辺博道でございます。
+　本委員会は、医療、年金、福祉等の制度構築や雇用・労働対策の推進など、国民一人一人の生活に密接にかかわる重要な課題を抱えております。
+　私は、当委員会が果たす役割の大きさを認識し、委員各位の御指導と御協力を賜りまして、公正かつ円満な委員会運営に努めてまいりたいと存じます。
+　どうぞよろしくお願いを申し上げます。（拍手）
+　　　　　――――◇―――――
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>2</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　これより理事の互選を行います。
+　理事の員数は八名とし、先例によりまして、委員長において指名するに御異議ありませんか。
+　　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>3</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　御異議なしと認めます。よって、そのように決しました。
+　それでは
+　　　　　　赤枝　恒雄君　　　　高鳥　修一君
+　　　　とかしきなおみ君　　　　松野　博一君
+　　　　　　松本　文明君　　　　山井　和則君
+　　　　　　浦野　靖人君　　　　古屋　範子君
+をそれぞれ理事に指名いたします。
+　　　　　――――◇―――――
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>4</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　この際、御報告いたします。
+　本委員会に参考送付されました意見書は、お手元に配付いたしておりますとおり、安全・安心の医療・介護の実現、医療・介護従事者の大幅増員と処遇改善を求める意見書外八十六件であります。
+　　　　　――――◇―――――
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>5</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　次に、閉会中審査に関する件についてお諮りいたします。
+　厚生労働関係の基本施策に関する件
+　社会保障制度、医療、公衆衛生、社会福祉及び人口問題に関する件
+　労使関係、労働基準及び雇用・失業対策に関する件
+以上の各件につきまして、議長に対し、閉会中審査の申し出をするに御異議ありませんか。
+　　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>6</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　御異議なしと認めます。よって、そのように決しました。
+　次に、閉会中審査案件が付託になりました場合の諸件についてお諮りいたします。
+　まず、閉会中、委員派遣を行う必要が生じました場合には、議長に対し、委員派遣承認申請を行うこととし、派遣委員の人選、期間、派遣地等その手続につきましては、委員長に御一任願いたいと存じますが、御異議ありませんか。
+　　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>7</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　御異議なしと認めます。よって、そのように決しました。
+　また、閉会中審査におきまして、参考人より意見を聴取する必要が生じました場合には、参考人の出席を求めることとし、その日時、人選等につきましては、委員長に御一任願いたいと存じますが、御異議ありませんか。
+　　　　〔「異議なし」と呼ぶ者あり〕
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>188</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>厚生労働委員会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>2014-12-26</date>
+                    <speechOrder>8</speechOrder>
+                    <speaker>渡辺博道</speaker>
+                    <speech>○渡辺委員長　御異議なしと認めます。よって、そのように決しました。
+　本日は、これにて散会いたします。
+　　　　午後零時九分散会
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/188/0097/18812260097001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>

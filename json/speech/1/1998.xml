@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>2</numberOfRecords>
+    <numberOfReturn>2</numberOfReturn>
+    <startRecord>1</startRecord>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>15号</issue>
+                    <date>1998-10-02</date>
+                    <speechOrder>5</speechOrder>
+                    <speaker>逢沢一郎</speaker>
+                    <speech>○逢沢委員　ただいまの金融安定化に関する特別委員長からの緊急上程の申し出につきましては、これらの法案の持つ緊急性、とりわけ今日の株価の動向を初め現下の経済情勢などを勘案し、ぜひとも本日の本会議において緊急上程することを望みます。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0440/14310020440015a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0440/14310020440015.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>143</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>議院運営委員会</nameOfMeeting>
+                    <issue>5号</issue>
+                    <date>1998-08-11</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>逢沢一郎</speaker>
+                    <speech>○逢沢委員　昨日、八月十日の衆議院議院運営委員会理事会における鈴木内閣官房副長官発言の要旨を確認させていただきます。
+　　一　政府委員が大臣にかわって答弁したり、
+　　　　補足的説明を超えて答弁するケースにつ
+　　　　いて
+　「政府委員は国会において国務大臣を補佐する
+　ために任命されており、その答弁の範囲も大臣
+　答弁の補助的な範囲にとどまるべきで、これま
+　でも行き過ぎのないよう指導してきたが、官房
+　長官より各省庁に対し再度この趣旨を徹底した
+　い。」旨の発言があった。
+　　二　所管外の委員会での説明員の答弁につい
+　　　　て
+　「各委員会での事務当局からの答弁について
+　は、原則として政府委員が行うべきであるが、
+　委員会の開催の重複、出張等の公務により担当
+　政府委員が出席できないとき、質問者の了解を
+　得た上で説明等について説明員が対応すること
+　としている。今後は可能な限り政府委員が対応
+　するよう徹底を図るとともに、説明員が対応す
+　る場合でも、できるだけ審議官や部長、参事官
+　等が対応するよう努めたい。」旨の発言があった。
+　以上でございます。
+　　　　―――――――――――――
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0440/14308110440005a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/143/0440/14308110440005.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>

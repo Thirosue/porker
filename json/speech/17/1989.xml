@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <numberOfRecords>6</numberOfRecords>
+    <numberOfReturn>6</numberOfReturn>
+    <startRecord>1</startRecord>
+    <records>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>115</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣総理大臣の指名両院協議会協議委員議長副議長互選会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>1989-08-09</date>
+                    <speechOrder>2</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島協議委員　動議を提出いたします。
+　議長には小此木彦三郎君を御推薦いたしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/115/0800/11508090800001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/115/0800/11508090800001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>115</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>内閣総理大臣の指名両院協議会協議委員議長副議長互選会</nameOfMeeting>
+                    <issue>1号</issue>
+                    <date>1989-08-09</date>
+                    <speechOrder>6</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島協議委員　動議を提出いたします。
+　副議長には羽田孜君を御推薦いたしたいと思います。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/115/0800/11508090800001a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/115/0800/11508090800001.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>114</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>大蔵委員会</nameOfMeeting>
+                    <issue>13号</issue>
+                    <date>1989-06-21</date>
+                    <speechOrder>46</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員長代理　森田景一君。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11406210140013a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11406210140013.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>114</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>大蔵委員会</nameOfMeeting>
+                    <issue>11号</issue>
+                    <date>1989-06-14</date>
+                    <speechOrder>11</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員長代理　早川勝君。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11406140140011a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11406140140011.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>114</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>大蔵委員会</nameOfMeeting>
+                    <issue>8号</issue>
+                    <date>1989-04-04</date>
+                    <speechOrder>125</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員長代理　しばしお待ちください。
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11404040140008a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11404040140008.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+        <record>
+            <recordData>
+                <speechRecord>
+                    <session>114</session>
+                    <nameOfHouse>衆議院</nameOfHouse>
+                    <nameOfMeeting>大蔵委員会</nameOfMeeting>
+                    <issue>4号</issue>
+                    <date>1989-03-22</date>
+                    <speechOrder>92</speechOrder>
+                    <speaker>大島理森</speaker>
+                    <speech>○大島委員長代理　午後一時から再開することとし、この際、休憩いたします。
+　　　　午後零時八分休憩
+　　　　　――――◇―――――
+　　　　午後一時一分開議
+</speech>
+                    <meetingURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11403220140004a.html</meetingURL>
+                    <pdfURL>http://kokkai.ndl.go.jp/SENTAKU/syugiin/114/0140/11403220140004.pdf</pdfURL>
+                </speechRecord>
+            </recordData>
+        </record>
+    </records>
+</data>
