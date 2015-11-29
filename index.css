@@ -1,5 +1,6 @@
 *{
-    //color: #ff0000;
+    color: gray;
+    background-color: black;
 }
 
 #up_frame {
@@ -25,7 +26,7 @@
 }
 
 header {
-    
+    position: fied;
     height: 60px;
     background-color : #0A2C5F;
     
@@ -75,3 +76,4 @@ header {
     width: 156px;
     height: 199px;
 }
+
