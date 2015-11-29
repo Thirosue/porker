@@ -8,6 +8,8 @@ $(document).ready(function(){
         localStorage.setItem('cardNo', $(this).data('no'));
         console.log('select' + localStorage.getItem('cardNo') + '....');
 
+        $('#cost').html( localStorage.getItem('cost') + ' <small>※コスト制限:20</small>');
+
         // オーバーレイ用の要素を追加
         $('body').append('<div class="modal-overlay"></div>');
         // オーバーレイをフェードイン
