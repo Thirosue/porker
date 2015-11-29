@@ -5,6 +5,7 @@
 $(document).ready(function(){
 
     var cost = 0;
+    localStorage.setItem('cost', 0);
 
 //カードリスト
     var cards = new Array();
@@ -106,6 +107,7 @@ $(document).ready(function(){
         $('#select td').eq(localStorage.getItem('cardNo')).data('id',id);
         cost = cost + target.cost;
         console.log('current cost:' + cost);
+        localStorage.setItem('cost', cost);
 
         //calcPoint();
         closeModal('#modal1');
@@ -179,12 +181,28 @@ function calcPoint() {
         $('#rank').html(Math.round(Math.random()*100));
     //}
 
-    $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/1.png' >");
-    $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/1.png' >");
-
+    if( Math.round(Math.random()*100)%10 < 5) {
+        console.log('two pair');
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/3.png' >");
+    } else if ( Math.round(Math.random()*100)%10 < 8) {
+        console.log('three card');
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/2.png' >");
+    } else if ( Math.round(Math.random()*100)%10 < 10) {
+        console.log('full hause');
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/2.png' >");
+        $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/2.png' >");
+    }
 }
 
 function clear() {
