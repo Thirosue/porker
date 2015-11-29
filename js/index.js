@@ -177,8 +177,8 @@ function calcPoint() {
 
     if( Math.round(Math.random()*100)%10 < 6) {
         console.log('two pair');
-        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/1.png' >");
-        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/4.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/4.png' >");
         $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/2.png' >");
         $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/2.png' >");
         $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/3.png' >");
@@ -193,9 +193,9 @@ function calcPoint() {
         $('#point').html(point*2);
     } else if ( Math.round(Math.random()*100)%10 < 10) {
         console.log('full hause');
-        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/1.png' >");
-        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/1.png' >");
-        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/1.png' >");
+        $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/5.png' >");
+        $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/5.png' >");
+        $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/5.png' >");
         $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/2.png' >");
         $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/2.png' >");
         $('#point').html(point*3);
