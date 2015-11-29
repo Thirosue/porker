@@ -105,6 +105,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#895c18', end
 
 #date{
     display: inline-block;
+    text-align: right;
+    float: right;
+    cursor: pointer;
     
 }
 
