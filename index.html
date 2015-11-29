@@ -15,28 +15,61 @@
     </header>
 
     <div id="modal1" class="modal-content">
-        <h4>条件を指定してください</h4>
-        <dl>
-            <dt>政党</dt>
-            <dd>
-                <select id="party">
-                    <option value="">選択してください</option>
-                    <option value="自民">自民</option>
-                    <option value="民主">民主</option>
-                    <option value="維新">維新</option>
-                    <option value="共産">共産</option>
-                    <option value="無">無</option>
-                </select>
-            </dd>
-            <dt>議員名</dt>
-            <dd><input id="name" type="search" name="name"></dd>
-        </dl>
-        <button class='search'>検索</button>
+        <div>
+            <h4>現在のコスト:<span id="cost"></span></h4>
+            <dl>
+                <dt>政党</dt>
+                <dd>
+                    <select id="party">
+                        <option value="">選択してください</option>
+                        <option value="自民">自民</option>
+                        <option value="民主">民主</option>
+                        <option value="維新">維新</option>
+                        <option value="共産">共産</option>
+                        <option value="無">無</option>
+                    </select>
+                </dd>
+                <dt>議員名</dt>
+                <dd><input id="name" type="search" name="name"></dd>
+            </dl>
+            <button class='search'>検索</button>
+        </div>
         <hr>
 
         <div>
-            <ul id="search-list">
-            </ul>
+            <table class="scrollTable st-container" cellpadding="0" cellspacing="0" border="0">
+                <thead>
+                <tr>
+                    <td class="st-head" style="padding: 0px 2px 0px 0px;">
+                        <table class="st-head-table" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+                            <thead>
+                            <tr>
+                                <th colspan="0" style="width: 10%;">#</th>
+                                <th colspan="0" style="width: 10%;">コスト</th>
+                                <th colspan="0" style="width: 10%;">政党</th>
+                                <th colspan="0" style="width: 20%;">名前</th>
+                                <th colspan="0" style="width: 20%;">選挙区</th>
+                                <th colspan="0" style="width: 10%;">所属</th>
+                                <th colspan="0" style="width: 10%;"></th>
+                            </tr>
+                            </thead>
+                        </table>
+                    </td>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td class="st-body" style="padding: 0px;">
+                        <div class="st-body-scroll" style="overflow-y: auto; max-height: 300px;">
+                            <table class="st-body-table" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+                                <tbody id="grid-content">
+                                </tbody>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
         </div>
         <p><a class="modal-close">閉じる</a></p>
     </div>
@@ -103,10 +136,12 @@
 
 </body>
 <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.22/jquery-ui.min.js"></script>
+<script src="js/gulid.js" type="text/javascript" charset="UTF-8"></script>
 <script src="js/index.js"></script>
 <script src="js/modal.js"></script>
 <script type="text/javascript" src="chrome-extension://aadgmnobpdmgmigaicncghmmoeflnamj/ng-inspector.js"></script>
-    
+
     <script>
     
         $(function(){
