@@ -8,6 +8,15 @@ body {
   padding-left: 0;
 }
 
+h1 img {
+  float: left;
+  margin: 0 50px 30px 0;
+}
+
+section {
+  clear: both;
+}
+
 #card, #speechesInEachYear, #recentSpeeches {
   border: ridge 4px #ccc;
   margin: 10px 30px;
