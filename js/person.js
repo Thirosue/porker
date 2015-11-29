@@ -79,7 +79,7 @@ $(function(){
   /* recent speeches */
   var speechesSection = $("#recentSpeeches");
   $.each(recentSpeeches[index], function(i, val) {
-    var str = "<ul><li>" + val['date'] + ": <a href='" + val['meetingURL'] + "'>" + val['text100'] + "</a></li></ul>"
+    var str = "<ul><li>" + val['date'] + ": <a href='" + val['meetingURL'] + "'>" + val['text100'] + " ...</a></li></ul>"
     speechesSection.append(str);
 
   });
