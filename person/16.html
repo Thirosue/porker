@@ -5,15 +5,29 @@
   <body>
     <h1><img src="../public/094.png" /> 逢沢 一郎</h1>
     <section id="card" data-id="16">
+      <h2>カード情報</h2>
       <ul>
-        <li>カード番号: 16</li>
+        <li>番号: 16</li>
         <li>衆議院議員</li>
         <li>党: 自民</li>
         <li>当選回数: 2</li>
         <li>選挙区: 兵庫 6</li>
       </ul>
     </section>
-    <canvas id="speechesInEachYear" width="600" height="400"></canvas>
+
+    <section id="speechesInEachYear">
+      <h2>年間発言数</h2>
+      <canvas id="canvasOnSpeechesInEachYear" width="600" height="400"></canvas>
+    </section>
+
+    <section id="recentSpeeches">
+      <h2>最近の発言</h2>
+      <ul>
+        <li>2015-05-27: <a href="http://kokkai.ndl.go.jp/SENTAKU/syugiin/189/0097/18905270097016a.html">○大串（正）委員　自由民主党の大串正樹でございます。
+　本日は、質問の機会をいただきまして、ありがとうございます。 ...</a></li>
+      </ul>
+    </section>
+
   </body>
   <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
