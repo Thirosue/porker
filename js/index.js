@@ -96,23 +96,9 @@ $(document).ready(function(){
         cost = cost + target.cost;
         console.log('current cost:' + cost);
 
-        calcPoint();
+        //calcPoint();
         closeModal('#modal1');
     });
-
-    function calcPoint() {
-        if(5 == $('#select img').size()) {
-            //集計
-            var point = 0;
-            var rank = 0;
-            $("#select td").each(function(){
-                point = point + cards[$(this).data('id')].number_of_records;
-            });
-
-            $('#point').html(point);
-            $('#rank').html(Math.round(Math.random()*100));
-        }
-    }
 
     function getList(party,name) {
         var target = new Array();
