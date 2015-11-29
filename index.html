@@ -166,10 +166,25 @@
             cards.push({  "id" : 19,  "name" : "小野寺 五典",  "furigana" : "おのでら いつのり",  "party" : "自民",  "constituency_broad" : "宮城",  "constituency_narrow" : "6",  "win_count_lower_house" : "6",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "087.jpg",  "number_of_records" : 3646, "cost" : 3,  });
 
 
-            $("#date").text("2016年5月1日（日）").click(function(){
-                calcPoint();
-                $(this).text("2016年6月1日（日）");
+            
+            var data_list = ["2016年1月10日（日）","2016年1月14日（木）","2016年9月11日（日）"];
+            var data_sataus = 0;
+            
+            updateData(data_sataus);
+            
+            $("#date").click(function(){
+                
+                updateData(data_sataus);
+                if(data_sataus == 0) clear();
+                if(data_sataus == 2) calcPoint();
+                
+                data_sataus ++;
+                if(data_sataus > 2) data_sataus = 0;
             });
+            
+            function updateData(status){
+                $("#date").text(data_list[status]);
+            }
         });
         
     </script>
