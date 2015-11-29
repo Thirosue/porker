@@ -1,0 +1,19 @@
+body {
+  background-color: #333;
+}
+
+#main {
+  background-color: #eee;
+  margin: 10;
+  padding-left: 0;
+}
+
+#card, #speechesInEachYear, #recentSpeeches {
+  border: ridge 4px #ccc;
+  margin: 10px 30px;
+  padding: 5px 10px;
+}
+
+ul li {
+  list-style-type: none;
+}
