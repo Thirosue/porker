@@ -94,7 +94,13 @@ $(document).ready(function(){
 
         $('#select td').eq(localStorage.getItem('cardNo')).html(
             "<p class='cost' data-cost='" + target.cost + "'>"+ target.name +"（"+ target.party +"）</p>" +
-            "<img data-id='"+ ( target.id + 1 ) +"' class='open' src='public/" + target.portrait_image + "'>"
+            "<img data-id='"+ ( target.id + 1 ) +"' class='open' src='public/" + target.portrait_image + "'>" +
+            "<div>" +
+                "<ul>" +
+                    "<li class='number_of_records'></li>" +
+                    "<li class='mark'></li>" +
+                "</ul>" +
+            "</div>"
         );
 
         $('#select td').eq(localStorage.getItem('cardNo')).data('id',id);
