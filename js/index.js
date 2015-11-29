@@ -71,7 +71,7 @@ $(document).ready(function(){
     });
 
     $(document).on("click",".open", function(){
-        var newWin = window.open( 'person/' + $(this).data('id') + '.html', 'detail', 'width=800,height=480,scrollbars=yes');
+        var newWin = window.open( 'person/' + $(this).data('id') + '.html', 'detail', 'width=1200,height=600,scrollbars=yes');
         newWin.focus();
     });
 
