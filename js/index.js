@@ -160,6 +160,19 @@ function calcPoint() {
     cards.push({  "id" : 18,  "name" : "小川 淳也",  "furigana" : "おがわ じゅんや",  "party" : "民主",  "constituency_broad" : "比例",  "constituency_narrow" : "四国",  "win_count_lower_house" : "4",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "079.png",  "number_of_records" : 1370, "cost" : 2,  });
     cards.push({  "id" : 19,  "name" : "小野寺 五典",  "furigana" : "おのでら いつのり",  "party" : "自民",  "constituency_broad" : "宮城",  "constituency_narrow" : "6",  "win_count_lower_house" : "6",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "087.png",  "number_of_records" : 3646, "cost" : 3,  });
 
+    //カードリスト
+    var speaks = new Array();
+    speaks.push('○衆議院議員 山下委員から、なぜ今回も参議院からなのかと、....');
+    speaks.push('○本日、この重要な安保法制が採決されるのではないか。....');
+    speaks.push('○今回の台風で被害に遭われた皆様方、また、さまざまな形でその災害からの....');
+    speaks.push('○ＴＰＰ協定は、アジア太平洋地域に、自由、民主主義、基本的人権、法の支配といった普遍的価値....');
+    speaks.push('○今委員御指摘いただきましたとおり、直交集成板、ＣＬＴは、....');
+    speaks.push('○自由民主党を代表して、平和安全法制について質問いたします。....');
+    speaks.push('○この特別委員会、きょうで百時間を超えるというような長きにわたって、....');
+    speaks.push('○まず、今の柿沢提出者の話を少し補足させていただくと、私たちは議論の中で、....');
+    speaks.push('○きょうも質問の機会をお与えいただきましたことに感謝を申し上げ、....');
+    speaks.push('○堤防が一たび決壊をいたしますと、甚大な人的、物的被害が生じます。....');
+
     //if(5 == $('#select img').size()) {
         //集計
         var point = 0;
@@ -170,6 +183,7 @@ function calcPoint() {
             if(-1 < $(this).data('id')) {
                 point = point + cards[$(this).data('id')].number_of_records;
                 $("#select td").eq(index++).find('.number_of_records').html(cards[$(this).data('id')].number_of_records);
+                $('#info_right').append($('<p>').text(cards[$(this).data('id')].name + 'の発言：' + speaks[Math.round(Math.random()*100)%10]));
             }
         });
 
