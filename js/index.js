@@ -183,7 +183,7 @@ function calcPoint() {
             if(-1 < $(this).data('id')) {
                 point = point + cards[$(this).data('id')].number_of_records;
                 $("#select td").eq(index++).find('.number_of_records').html(cards[$(this).data('id')].number_of_records);
-                $('#info_right').append($('<p>').text(cards[$(this).data('id')].name + 'の発言：' + speaks[Math.round(Math.random()*100)%10]));
+                $('#info_right').append($('<p style="font-size: small">').text(cards[$(this).data('id')].name + 'の発言：' + speaks[Math.round(Math.random()*100)%10]));
             }
         });
 
@@ -215,6 +215,7 @@ function calcPoint() {
         $('#point').html(point*3);
     }
 
+    $('#info_right').height = 400;
     $('#rank').html(Math.round(Math.random()*100));
 }
 
