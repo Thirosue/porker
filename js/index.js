@@ -69,6 +69,11 @@ $(document).ready(function(){
         });
     });
 
+    $(document).on("click",".open", function(){
+        var newWin = window.open( 'person/' + $(this).data('id') + '.html', 'detail', 'width=800,height=480,scrollbars=yes');
+        newWin.focus();
+    });
+
     $(document).on("click",".card-select", function(){
         if(5 == $('#select img').size()) {
             return false;
@@ -89,7 +94,7 @@ $(document).ready(function(){
 
         $('#select td').eq(localStorage.getItem('cardNo')).html(
             "<p class='cost' data-cost='" + target.cost + "'>"+ target.name +"（"+ target.party +"）</p>" +
-            "<img src='public/" + target.portrait_image + "'>"
+            "<img data-id='"+ ( target.id + 1 ) +"' class='open' src='public/" + target.portrait_image + "'>"
         );
 
         $('#select td').eq(localStorage.getItem('cardNo')).data('id',id);
