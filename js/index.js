@@ -69,6 +69,11 @@ $(document).ready(function(){
         });
     });
 
+    $(document).on("click",".open", function(){
+        var newWin = window.open( 'person/' + $(this).data('id') + '.html', 'detail', 'width=800,height=480,scrollbars=yes');
+        newWin.focus();
+    });
+
     $(document).on("click",".card-select", function(){
         if(5 == $('#select img').size()) {
             return false;
@@ -89,30 +94,16 @@ $(document).ready(function(){
 
         $('#select td').eq(localStorage.getItem('cardNo')).html(
             "<p class='cost' data-cost='" + target.cost + "'>"+ target.name +"（"+ target.party +"）</p>" +
-            "<img src='public/" + target.portrait_image + "'>"
+            "<img data-id='"+ ( target.id + 1 ) +"' class='open' src='public/" + target.portrait_image + "'>"
         );
 
         $('#select td').eq(localStorage.getItem('cardNo')).data('id',id);
         cost = cost + target.cost;
         console.log('current cost:' + cost);
 
-        calcPoint();
+        //calcPoint();
         closeModal('#modal1');
     });
-
-    function calcPoint() {
-        if(5 == $('#select img').size()) {
-            //集計
-            var point = 0;
-            var rank = 0;
-            $("#select td").each(function(){
-                point = point + cards[$(this).data('id')].number_of_records;
-            });
-
-            $('#point').html(point);
-            $('#rank').html(Math.round(Math.random()*100));
-        }
-    }
 
     function getList(party,name) {
         var target = new Array();
