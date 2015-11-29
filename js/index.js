@@ -162,15 +162,27 @@ function calcPoint() {
     cards.push({  "id" : 18,  "name" : "小川 淳也",  "furigana" : "おがわ じゅんや",  "party" : "民主",  "constituency_broad" : "比例",  "constituency_narrow" : "四国",  "win_count_lower_house" : "4",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "079.jpg",  "number_of_records" : 1370, "cost" : 2,  });
     cards.push({  "id" : 19,  "name" : "小野寺 五典",  "furigana" : "おのでら いつのり",  "party" : "自民",  "constituency_broad" : "宮城",  "constituency_narrow" : "6",  "win_count_lower_house" : "6",  "win_count_upper_house" : "",  "house" : "衆議院",  "portrait_image" : "087.jpg",  "number_of_records" : 3646, "cost" : 3,  });
 
-    if(5 == $('#select img').size()) {
+    //if(5 == $('#select img').size()) {
         //集計
         var point = 0;
         var rank = 0;
+        var index = 0;
+
         $("#select td").each(function(){
-            point = point + cards[$(this).data('id')].number_of_records;
+            if(-1 < $(this).data('id')) {
+                point = point + cards[$(this).data('id')].number_of_records;
+                $("#select td").eq(index++).find('.number_of_records').html(cards[$(this).data('id')].number_of_records);
+            }
         });
 
         $('#point').html(point);
         $('#rank').html(Math.round(Math.random()*100));
-    }
+    //}
+
+    $("#select td").eq(0).find('.mark').html("<img height='50' src='icon/1.png' >");
+    $("#select td").eq(1).find('.mark').html("<img height='50' src='icon/1.png' >");
+    $("#select td").eq(2).find('.mark').html("<img height='50' src='icon/1.png' >");
+    $("#select td").eq(3).find('.mark').html("<img height='50' src='icon/1.png' >");
+    $("#select td").eq(4).find('.mark').html("<img height='50' src='icon/1.png' >");
+
 }
