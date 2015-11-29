@@ -116,12 +116,13 @@
     <div id="down_frame">
         
         <div id="info_left">
-            <div style="border: double">
+            <div id="score">
                 <div>発言数:<p id="point">　ポイント</p></div>
                 <div>ランキング:<p id="rank"> 位</p></div>
             </div>
         </div>
-        <div id="info_right">個々のパラメーター</div>
+        <div id="info_right">
+            <p>パーティの活動状況</p></div>
         
     </div>
     
@@ -157,7 +158,16 @@
             $("#date").click(function(){
                 
                 updateData(data_sataus);
-                if(data_sataus == 2) calcPoint();
+                if(data_sataus == 2) {
+                    calcPoint();
+//                    $("#socre").fadeIn();
+                }
+                
+                if(data_sataus == 1) {
+                    
+                    $("#cards a").hide();
+                    
+                }
                 
                 if(data_sataus > 2){
                     clear();
