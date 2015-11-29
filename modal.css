@@ -45,3 +45,12 @@
     color:#f00;
 }
 
+table.scrollTable{
+    width:100%;
+    border:1px solid #ddd;
+}
+thead{
+    background-color: #eee;
+}
+
+

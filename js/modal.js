@@ -5,8 +5,8 @@ $(document).ready(function(){
 
     // 「.modal-open」をクリック
     $('.modal-open').click(function(){
-        cade_no = $(this).data('no');
-        console.log('select' + cade_no + '....');
+        localStorage.setItem('cardNo', $(this).data('no'));
+        console.log('select' + localStorage.getItem('cardNo') + '....');
 
         // オーバーレイ用の要素を追加
         $('body').append('<div class="modal-overlay"></div>');
